@@ -1,0 +1,2308 @@
+{
+  "easy": [
+    {
+      "number": 1,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) walk away",
+          "expression": "walk away"
+        },
+        {
+          "item": "j) hand in",
+          "expression": "hand in"
+        },
+        {
+          "item": "k) take up",
+          "expression": "take up"
+        },
+        {
+          "item": "l) calm down",
+          "expression": "calm down"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "make or remain quiet / peaceful"
+        },
+        {
+          "option": "b)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "c)",
+          "meaning": "submit an assignment or document to an authority"
+        },
+        {
+          "option": "d)",
+          "meaning": "leave or abandon a situation"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "c",
+        "k": "b",
+        "l": "a"
+      }
+    },
+    {
+      "number": 2,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) give away",
+          "expression": "give away"
+        },
+        {
+          "item": "j) put out",
+          "expression": "put out"
+        },
+        {
+          "item": "k) check in",
+          "expression": "check in"
+        },
+        {
+          "item": "l) take up",
+          "expression": "take up"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "extinguish a flame or fire"
+        },
+        {
+          "option": "b)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "c)",
+          "meaning": "reveal a secret or distribute freely"
+        },
+        {
+          "option": "d)",
+          "meaning": "register or confirm arrival"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "a",
+        "k": "d",
+        "l": "b"
+      }
+    },
+    {
+      "number": 3,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) fly high",
+          "expression": "fly high"
+        },
+        {
+          "item": "j) hand in",
+          "expression": "hand in"
+        },
+        {
+          "item": "k) break down",
+          "expression": "break down"
+        },
+        {
+          "item": "l) take up",
+          "expression": "take up"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "b)",
+          "meaning": "submit an assignment or document to an authority"
+        },
+        {
+          "option": "c)",
+          "meaning": "be successful / ambitious"
+        },
+        {
+          "option": "d)",
+          "meaning": "fail to function / collapse emotionally"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "b",
+        "k": "d",
+        "l": "a"
+      }
+    },
+    {
+      "number": 4,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) walk away",
+          "expression": "walk away"
+        },
+        {
+          "item": "j) take up",
+          "expression": "take up"
+        },
+        {
+          "item": "k) jot down",
+          "expression": "jot down"
+        },
+        {
+          "item": "l) plunge in",
+          "expression": "plunge in"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "go straight to the topic / start dealing with something immediately"
+        },
+        {
+          "option": "b)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "c)",
+          "meaning": "leave or abandon a situation"
+        },
+        {
+          "option": "d)",
+          "meaning": "write down quickly"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "b",
+        "k": "d",
+        "l": "a"
+      }
+    },
+    {
+      "number": 5,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) put out",
+          "expression": "put out"
+        },
+        {
+          "item": "j) break down",
+          "expression": "break down"
+        },
+        {
+          "item": "k) walk away",
+          "expression": "walk away"
+        },
+        {
+          "item": "l) take up",
+          "expression": "take up"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "leave or abandon a situation"
+        },
+        {
+          "option": "b)",
+          "meaning": "fail to function / collapse emotionally"
+        },
+        {
+          "option": "c)",
+          "meaning": "extinguish a flame or fire"
+        },
+        {
+          "option": "d)",
+          "meaning": "start doing a job, hobby, or activity"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "b",
+        "k": "a",
+        "l": "d"
+      }
+    },
+    {
+      "number": 6,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) give away",
+          "expression": "give away"
+        },
+        {
+          "item": "j) walk away",
+          "expression": "walk away"
+        },
+        {
+          "item": "k) take up",
+          "expression": "take up"
+        },
+        {
+          "item": "l) plunge in",
+          "expression": "plunge in"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "leave or abandon a situation"
+        },
+        {
+          "option": "b)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "c)",
+          "meaning": "reveal a secret or distribute freely"
+        },
+        {
+          "option": "d)",
+          "meaning": "go straight to the topic / start dealing with something immediately"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "a",
+        "k": "b",
+        "l": "d"
+      }
+    },
+    {
+      "number": 7,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) plunge in",
+          "expression": "plunge in"
+        },
+        {
+          "item": "j) fly high",
+          "expression": "fly high"
+        },
+        {
+          "item": "k) put out",
+          "expression": "put out"
+        },
+        {
+          "item": "l) jot down",
+          "expression": "jot down"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "write down quickly"
+        },
+        {
+          "option": "b)",
+          "meaning": "be successful / ambitious"
+        },
+        {
+          "option": "c)",
+          "meaning": "go straight to the topic / start dealing with something immediately"
+        },
+        {
+          "option": "d)",
+          "meaning": "extinguish a flame or fire"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "b",
+        "k": "d",
+        "l": "a"
+      }
+    },
+    {
+      "number": 8,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) fly high",
+          "expression": "fly high"
+        },
+        {
+          "item": "j) look into",
+          "expression": "look into"
+        },
+        {
+          "item": "k) take up",
+          "expression": "take up"
+        },
+        {
+          "item": "l) break down",
+          "expression": "break down"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "be successful / ambitious"
+        },
+        {
+          "option": "b)",
+          "meaning": "fail to function / collapse emotionally"
+        },
+        {
+          "option": "c)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "d)",
+          "meaning": "investigate or examine carefully"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "d",
+        "k": "c",
+        "l": "b"
+      }
+    },
+    {
+      "number": 9,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) raining cats and dogs",
+          "expression": "raining cats and dogs"
+        },
+        {
+          "item": "j) caught my eye",
+          "expression": "caught my eye"
+        },
+        {
+          "item": "k) lose heart",
+          "expression": "lose heart"
+        },
+        {
+          "item": "l) quake in boots",
+          "expression": "quake in boots"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "become discouraged or lose hope"
+        },
+        {
+          "option": "b)",
+          "meaning": "attracted someone's attention"
+        },
+        {
+          "option": "c)",
+          "meaning": "raining very heavily"
+        },
+        {
+          "option": "d)",
+          "meaning": "shake or tremble with extreme fear/nervousness"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "b",
+        "k": "a",
+        "l": "d"
+      }
+    },
+    {
+      "number": 10,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) raining cats and dogs",
+          "expression": "raining cats and dogs"
+        },
+        {
+          "item": "j) quake in boots",
+          "expression": "quake in boots"
+        },
+        {
+          "item": "k) lose heart",
+          "expression": "lose heart"
+        },
+        {
+          "item": "l) icing on the cake",
+          "expression": "icing on the cake"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "an extra good thing added to something already good"
+        },
+        {
+          "option": "b)",
+          "meaning": "raining very heavily"
+        },
+        {
+          "option": "c)",
+          "meaning": "become discouraged or lose hope"
+        },
+        {
+          "option": "d)",
+          "meaning": "shake or tremble with extreme fear/nervousness"
+        }
+      ],
+      "answerKey": {
+        "i": "b",
+        "j": "d",
+        "k": "c",
+        "l": "a"
+      }
+    },
+    {
+      "number": 11,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) caught my eye",
+          "expression": "caught my eye"
+        },
+        {
+          "item": "j) raining cats and dogs",
+          "expression": "raining cats and dogs"
+        },
+        {
+          "item": "k) chalk and cheese",
+          "expression": "chalk and cheese"
+        },
+        {
+          "item": "l) all's fair in love and war",
+          "expression": "all's fair in love and war"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "raining very heavily"
+        },
+        {
+          "option": "b)",
+          "meaning": "all behavior is acceptable in extreme situations"
+        },
+        {
+          "option": "c)",
+          "meaning": "completely different from each other"
+        },
+        {
+          "option": "d)",
+          "meaning": "attracted someone's attention"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "a",
+        "k": "c",
+        "l": "b"
+      }
+    },
+    {
+      "number": 12,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) caught my eye",
+          "expression": "caught my eye"
+        },
+        {
+          "item": "j) quake in boots",
+          "expression": "quake in boots"
+        },
+        {
+          "item": "k) icing on the cake",
+          "expression": "icing on the cake"
+        },
+        {
+          "item": "l) all's fair in love and war",
+          "expression": "all's fair in love and war"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "attracted someone's attention"
+        },
+        {
+          "option": "b)",
+          "meaning": "shake or tremble with extreme fear/nervousness"
+        },
+        {
+          "option": "c)",
+          "meaning": "an extra good thing added to something already good"
+        },
+        {
+          "option": "d)",
+          "meaning": "all behavior is acceptable in extreme situations"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "b",
+        "k": "c",
+        "l": "d"
+      }
+    },
+    {
+      "number": 13,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) a baker's dozen",
+          "expression": "a baker's dozen"
+        },
+        {
+          "item": "j) call the shots",
+          "expression": "call the shots"
+        },
+        {
+          "item": "k) for ages",
+          "expression": "for ages"
+        },
+        {
+          "item": "l) icing on the cake",
+          "expression": "icing on the cake"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "a group of thirteen (thirteen items)"
+        },
+        {
+          "option": "b)",
+          "meaning": "take charge and make key decisions"
+        },
+        {
+          "option": "c)",
+          "meaning": "for a very long period of time"
+        },
+        {
+          "option": "d)",
+          "meaning": "an extra good thing added to something already good"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "b",
+        "k": "c",
+        "l": "d"
+      }
+    },
+    {
+      "number": 14,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) a baker's dozen",
+          "expression": "a baker's dozen"
+        },
+        {
+          "item": "j) break the ice",
+          "expression": "break the ice"
+        },
+        {
+          "item": "k) for ages",
+          "expression": "for ages"
+        },
+        {
+          "item": "l) chalk and cheese",
+          "expression": "chalk and cheese"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "completely different from each other"
+        },
+        {
+          "option": "b)",
+          "meaning": "relieve tension and start a conversation"
+        },
+        {
+          "option": "c)",
+          "meaning": "for a very long period of time"
+        },
+        {
+          "option": "d)",
+          "meaning": "a group of thirteen (thirteen items)"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "b",
+        "k": "c",
+        "l": "a"
+      }
+    },
+    {
+      "number": 15,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) all's fair in love and war",
+          "expression": "all's fair in love and war"
+        },
+        {
+          "item": "j) lose heart",
+          "expression": "lose heart"
+        },
+        {
+          "item": "k) icing on the cake",
+          "expression": "icing on the cake"
+        },
+        {
+          "item": "l) raining cats and dogs",
+          "expression": "raining cats and dogs"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "all behavior is acceptable in extreme situations"
+        },
+        {
+          "option": "b)",
+          "meaning": "become discouraged or lose hope"
+        },
+        {
+          "option": "c)",
+          "meaning": "an extra good thing added to something already good"
+        },
+        {
+          "option": "d)",
+          "meaning": "raining very heavily"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "b",
+        "k": "c",
+        "l": "d"
+      }
+    },
+    {
+      "number": 16,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) Vague",
+          "expression": "Vague"
+        },
+        {
+          "item": "j) Emancipation",
+          "expression": "Emancipation"
+        },
+        {
+          "item": "k) Malice",
+          "expression": "Malice"
+        },
+        {
+          "item": "l) Bill of mortality",
+          "expression": "Bill of mortality"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        },
+        {
+          "option": "b)",
+          "meaning": "an official weekly list or record of deaths"
+        },
+        {
+          "option": "c)",
+          "meaning": "the desire to harm or annoy others; ill will"
+        },
+        {
+          "option": "d)",
+          "meaning": "liberation / freeing from social or legal restrictions"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "d",
+        "k": "c",
+        "l": "b"
+      }
+    },
+    {
+      "number": 17,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "j) Vague",
+          "expression": "Vague"
+        },
+        {
+          "item": "k) Emancipation",
+          "expression": "Emancipation"
+        },
+        {
+          "item": "l) Bill of mortality",
+          "expression": "Bill of mortality"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        },
+        {
+          "option": "b)",
+          "meaning": "an official weekly list or record of deaths"
+        },
+        {
+          "option": "c)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        },
+        {
+          "option": "d)",
+          "meaning": "liberation / freeing from social or legal restrictions"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "c",
+        "k": "d",
+        "l": "b"
+      }
+    },
+    {
+      "number": 18,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) Bill of mortality",
+          "expression": "Bill of mortality"
+        },
+        {
+          "item": "j) Vague",
+          "expression": "Vague"
+        },
+        {
+          "item": "k) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "l) Malice",
+          "expression": "Malice"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "the desire to harm or annoy others; ill will"
+        },
+        {
+          "option": "b)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        },
+        {
+          "option": "c)",
+          "meaning": "an official weekly list or record of deaths"
+        },
+        {
+          "option": "d)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "d",
+        "k": "b",
+        "l": "a"
+      }
+    },
+    {
+      "number": 19,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) look into",
+          "expression": "look into"
+        },
+        {
+          "item": "j) Emancipation",
+          "expression": "Emancipation"
+        },
+        {
+          "item": "k) icing on the cake",
+          "expression": "icing on the cake"
+        },
+        {
+          "item": "l) caught my eye",
+          "expression": "caught my eye"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "an extra good thing added to something already good"
+        },
+        {
+          "option": "b)",
+          "meaning": "attracted someone's attention"
+        },
+        {
+          "option": "c)",
+          "meaning": "investigate or examine carefully"
+        },
+        {
+          "option": "d)",
+          "meaning": "liberation / freeing from social or legal restrictions"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "d",
+        "k": "a",
+        "l": "b"
+      }
+    },
+    {
+      "number": 20,
+      "difficulty": "Easy",
+      "partA": [
+        {
+          "item": "i) Bill of mortality",
+          "expression": "Bill of mortality"
+        },
+        {
+          "item": "j) lose heart",
+          "expression": "lose heart"
+        },
+        {
+          "item": "k) Emancipation",
+          "expression": "Emancipation"
+        },
+        {
+          "item": "l) caught my eye",
+          "expression": "caught my eye"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "an official weekly list or record of deaths"
+        },
+        {
+          "option": "b)",
+          "meaning": "become discouraged or lose hope"
+        },
+        {
+          "option": "c)",
+          "meaning": "liberation / freeing from social or legal restrictions"
+        },
+        {
+          "option": "d)",
+          "meaning": "attracted someone's attention"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "b",
+        "k": "c",
+        "l": "d"
+      }
+    }
+  ],
+  "medium": [
+    {
+      "number": 1,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) a baker's dozen",
+          "expression": "a baker's dozen"
+        },
+        {
+          "item": "j) check in",
+          "expression": "check in"
+        },
+        {
+          "item": "k) walk away",
+          "expression": "walk away"
+        },
+        {
+          "item": "l) Emancipation",
+          "expression": "Emancipation"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "liberation / freeing from social or legal restrictions"
+        },
+        {
+          "option": "b)",
+          "meaning": "leave or abandon a situation"
+        },
+        {
+          "option": "c)",
+          "meaning": "register or confirm arrival"
+        },
+        {
+          "option": "d)",
+          "meaning": "a group of thirteen (thirteen items)"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "c",
+        "k": "b",
+        "l": "a"
+      }
+    },
+    {
+      "number": 2,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) put out",
+          "expression": "put out"
+        },
+        {
+          "item": "j) Emancipation",
+          "expression": "Emancipation"
+        },
+        {
+          "item": "k) break the ice",
+          "expression": "break the ice"
+        },
+        {
+          "item": "l) all's fair in love and war",
+          "expression": "all's fair in love and war"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "liberation / freeing from social or legal restrictions"
+        },
+        {
+          "option": "b)",
+          "meaning": "relieve tension and start a conversation"
+        },
+        {
+          "option": "c)",
+          "meaning": "extinguish a flame or fire"
+        },
+        {
+          "option": "d)",
+          "meaning": "all behavior is acceptable in extreme situations"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "a",
+        "k": "b",
+        "l": "d"
+      }
+    },
+    {
+      "number": 3,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) fly high",
+          "expression": "fly high"
+        },
+        {
+          "item": "j) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "k) all's fair in love and war",
+          "expression": "all's fair in love and war"
+        },
+        {
+          "item": "l) jot down",
+          "expression": "jot down"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        },
+        {
+          "option": "b)",
+          "meaning": "all behavior is acceptable in extreme situations"
+        },
+        {
+          "option": "c)",
+          "meaning": "be successful / ambitious"
+        },
+        {
+          "option": "d)",
+          "meaning": "write down quickly"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "a",
+        "k": "b",
+        "l": "d"
+      }
+    },
+    {
+      "number": 4,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) Malice",
+          "expression": "Malice"
+        },
+        {
+          "item": "j) chalk and cheese",
+          "expression": "chalk and cheese"
+        },
+        {
+          "item": "k) plunge in",
+          "expression": "plunge in"
+        },
+        {
+          "item": "l) caught my eye",
+          "expression": "caught my eye"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "completely different from each other"
+        },
+        {
+          "option": "b)",
+          "meaning": "the desire to harm or annoy others; ill will"
+        },
+        {
+          "option": "c)",
+          "meaning": "attracted someone's attention"
+        },
+        {
+          "option": "d)",
+          "meaning": "go straight to the topic / start dealing with something immediately"
+        }
+      ],
+      "answerKey": {
+        "i": "b",
+        "j": "a",
+        "k": "d",
+        "l": "c"
+      }
+    },
+    {
+      "number": 5,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) Vague",
+          "expression": "Vague"
+        },
+        {
+          "item": "j) calm down",
+          "expression": "calm down"
+        },
+        {
+          "item": "k) give away",
+          "expression": "give away"
+        },
+        {
+          "item": "l) a baker's dozen",
+          "expression": "a baker's dozen"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "a group of thirteen (thirteen items)"
+        },
+        {
+          "option": "b)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        },
+        {
+          "option": "c)",
+          "meaning": "reveal a secret or distribute freely"
+        },
+        {
+          "option": "d)",
+          "meaning": "make or remain quiet / peaceful"
+        }
+      ],
+      "answerKey": {
+        "i": "b",
+        "j": "d",
+        "k": "c",
+        "l": "a"
+      }
+    },
+    {
+      "number": 6,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) check in",
+          "expression": "check in"
+        },
+        {
+          "item": "j) Emancipation",
+          "expression": "Emancipation"
+        },
+        {
+          "item": "k) a baker's dozen",
+          "expression": "a baker's dozen"
+        },
+        {
+          "item": "l) quake in boots",
+          "expression": "quake in boots"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "liberation / freeing from social or legal restrictions"
+        },
+        {
+          "option": "b)",
+          "meaning": "shake or tremble with extreme fear/nervousness"
+        },
+        {
+          "option": "c)",
+          "meaning": "a group of thirteen (thirteen items)"
+        },
+        {
+          "option": "d)",
+          "meaning": "register or confirm arrival"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "a",
+        "k": "c",
+        "l": "b"
+      }
+    },
+    {
+      "number": 7,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "j) quake in boots",
+          "expression": "quake in boots"
+        },
+        {
+          "item": "k) calm down",
+          "expression": "calm down"
+        },
+        {
+          "item": "l) take up",
+          "expression": "take up"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        },
+        {
+          "option": "b)",
+          "meaning": "make or remain quiet / peaceful"
+        },
+        {
+          "option": "c)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "d)",
+          "meaning": "shake or tremble with extreme fear/nervousness"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "d",
+        "k": "b",
+        "l": "c"
+      }
+    },
+    {
+      "number": 8,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) quake in boots",
+          "expression": "quake in boots"
+        },
+        {
+          "item": "j) all's fair in love and war",
+          "expression": "all's fair in love and war"
+        },
+        {
+          "item": "k) take up",
+          "expression": "take up"
+        },
+        {
+          "item": "l) Malice",
+          "expression": "Malice"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "shake or tremble with extreme fear/nervousness"
+        },
+        {
+          "option": "b)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "c)",
+          "meaning": "the desire to harm or annoy others; ill will"
+        },
+        {
+          "option": "d)",
+          "meaning": "all behavior is acceptable in extreme situations"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "d",
+        "k": "b",
+        "l": "c"
+      }
+    },
+    {
+      "number": 9,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) raining cats and dogs",
+          "expression": "raining cats and dogs"
+        },
+        {
+          "item": "j) fly high",
+          "expression": "fly high"
+        },
+        {
+          "item": "k) take up",
+          "expression": "take up"
+        },
+        {
+          "item": "l) Vague",
+          "expression": "Vague"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        },
+        {
+          "option": "b)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "c)",
+          "meaning": "be successful / ambitious"
+        },
+        {
+          "option": "d)",
+          "meaning": "raining very heavily"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "c",
+        "k": "b",
+        "l": "a"
+      }
+    },
+    {
+      "number": 10,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) jot down",
+          "expression": "jot down"
+        },
+        {
+          "item": "j) call the shots",
+          "expression": "call the shots"
+        },
+        {
+          "item": "k) for ages",
+          "expression": "for ages"
+        },
+        {
+          "item": "l) Vague",
+          "expression": "Vague"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        },
+        {
+          "option": "b)",
+          "meaning": "write down quickly"
+        },
+        {
+          "option": "c)",
+          "meaning": "for a very long period of time"
+        },
+        {
+          "option": "d)",
+          "meaning": "take charge and make key decisions"
+        }
+      ],
+      "answerKey": {
+        "i": "b",
+        "j": "d",
+        "k": "c",
+        "l": "a"
+      }
+    },
+    {
+      "number": 11,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "j) put out",
+          "expression": "put out"
+        },
+        {
+          "item": "k) a baker's dozen",
+          "expression": "a baker's dozen"
+        },
+        {
+          "item": "l) calm down",
+          "expression": "calm down"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "extinguish a flame or fire"
+        },
+        {
+          "option": "b)",
+          "meaning": "make or remain quiet / peaceful"
+        },
+        {
+          "option": "c)",
+          "meaning": "a group of thirteen (thirteen items)"
+        },
+        {
+          "option": "d)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "a",
+        "k": "c",
+        "l": "b"
+      }
+    },
+    {
+      "number": 12,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "j) calm down",
+          "expression": "calm down"
+        },
+        {
+          "item": "k) for ages",
+          "expression": "for ages"
+        },
+        {
+          "item": "l) lose heart",
+          "expression": "lose heart"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        },
+        {
+          "option": "b)",
+          "meaning": "become discouraged or lose hope"
+        },
+        {
+          "option": "c)",
+          "meaning": "for a very long period of time"
+        },
+        {
+          "option": "d)",
+          "meaning": "make or remain quiet / peaceful"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "d",
+        "k": "c",
+        "l": "b"
+      }
+    },
+    {
+      "number": 13,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "j) icing on the cake",
+          "expression": "icing on the cake"
+        },
+        {
+          "item": "k) give away",
+          "expression": "give away"
+        },
+        {
+          "item": "l) hand in",
+          "expression": "hand in"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "submit an assignment or document to an authority"
+        },
+        {
+          "option": "b)",
+          "meaning": "an extra good thing added to something already good"
+        },
+        {
+          "option": "c)",
+          "meaning": "reveal a secret or distribute freely"
+        },
+        {
+          "option": "d)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "b",
+        "k": "c",
+        "l": "a"
+      }
+    },
+    {
+      "number": 14,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) jot down",
+          "expression": "jot down"
+        },
+        {
+          "item": "j) raining cats and dogs",
+          "expression": "raining cats and dogs"
+        },
+        {
+          "item": "k) for ages",
+          "expression": "for ages"
+        },
+        {
+          "item": "l) Malice",
+          "expression": "Malice"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "write down quickly"
+        },
+        {
+          "option": "b)",
+          "meaning": "for a very long period of time"
+        },
+        {
+          "option": "c)",
+          "meaning": "raining very heavily"
+        },
+        {
+          "option": "d)",
+          "meaning": "the desire to harm or annoy others; ill will"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "c",
+        "k": "b",
+        "l": "d"
+      }
+    },
+    {
+      "number": 15,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) give away",
+          "expression": "give away"
+        },
+        {
+          "item": "j) check in",
+          "expression": "check in"
+        },
+        {
+          "item": "k) chalk and cheese",
+          "expression": "chalk and cheese"
+        },
+        {
+          "item": "l) Indignant",
+          "expression": "Indignant"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "completely different from each other"
+        },
+        {
+          "option": "b)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        },
+        {
+          "option": "c)",
+          "meaning": "reveal a secret or distribute freely"
+        },
+        {
+          "option": "d)",
+          "meaning": "register or confirm arrival"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "d",
+        "k": "a",
+        "l": "b"
+      }
+    },
+    {
+      "number": 16,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) check in",
+          "expression": "check in"
+        },
+        {
+          "item": "j) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "k) caught my eye",
+          "expression": "caught my eye"
+        },
+        {
+          "item": "l) call the shots",
+          "expression": "call the shots"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "register or confirm arrival"
+        },
+        {
+          "option": "b)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        },
+        {
+          "option": "c)",
+          "meaning": "attracted someone's attention"
+        },
+        {
+          "option": "d)",
+          "meaning": "take charge and make key decisions"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "b",
+        "k": "c",
+        "l": "d"
+      }
+    },
+    {
+      "number": 17,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) give away",
+          "expression": "give away"
+        },
+        {
+          "item": "j) chalk and cheese",
+          "expression": "chalk and cheese"
+        },
+        {
+          "item": "k) walk away",
+          "expression": "walk away"
+        },
+        {
+          "item": "l) Vague",
+          "expression": "Vague"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        },
+        {
+          "option": "b)",
+          "meaning": "completely different from each other"
+        },
+        {
+          "option": "c)",
+          "meaning": "leave or abandon a situation"
+        },
+        {
+          "option": "d)",
+          "meaning": "reveal a secret or distribute freely"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "b",
+        "k": "c",
+        "l": "a"
+      }
+    },
+    {
+      "number": 18,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) caught my eye",
+          "expression": "caught my eye"
+        },
+        {
+          "item": "j) jot down",
+          "expression": "jot down"
+        },
+        {
+          "item": "k) Vague",
+          "expression": "Vague"
+        },
+        {
+          "item": "l) icing on the cake",
+          "expression": "icing on the cake"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "an extra good thing added to something already good"
+        },
+        {
+          "option": "b)",
+          "meaning": "write down quickly"
+        },
+        {
+          "option": "c)",
+          "meaning": "attracted someone's attention"
+        },
+        {
+          "option": "d)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "b",
+        "k": "d",
+        "l": "a"
+      }
+    },
+    {
+      "number": 19,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) jot down",
+          "expression": "jot down"
+        },
+        {
+          "item": "j) Malice",
+          "expression": "Malice"
+        },
+        {
+          "item": "k) for ages",
+          "expression": "for ages"
+        },
+        {
+          "item": "l) look into",
+          "expression": "look into"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "for a very long period of time"
+        },
+        {
+          "option": "b)",
+          "meaning": "investigate or examine carefully"
+        },
+        {
+          "option": "c)",
+          "meaning": "the desire to harm or annoy others; ill will"
+        },
+        {
+          "option": "d)",
+          "meaning": "write down quickly"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "c",
+        "k": "a",
+        "l": "b"
+      }
+    },
+    {
+      "number": 20,
+      "difficulty": "Medium",
+      "partA": [
+        {
+          "item": "i) call the shots",
+          "expression": "call the shots"
+        },
+        {
+          "item": "j) quake in boots",
+          "expression": "quake in boots"
+        },
+        {
+          "item": "k) Bill of mortality",
+          "expression": "Bill of mortality"
+        },
+        {
+          "item": "l) plunge in",
+          "expression": "plunge in"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "take charge and make key decisions"
+        },
+        {
+          "option": "b)",
+          "meaning": "an official weekly list or record of deaths"
+        },
+        {
+          "option": "c)",
+          "meaning": "shake or tremble with extreme fear/nervousness"
+        },
+        {
+          "option": "d)",
+          "meaning": "go straight to the topic / start dealing with something immediately"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "c",
+        "k": "b",
+        "l": "d"
+      }
+    }
+  ],
+  "difficult": [
+    {
+      "number": 1,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) walk away",
+          "expression": "walk away"
+        },
+        {
+          "item": "j) Vague",
+          "expression": "Vague"
+        },
+        {
+          "item": "k) for ages",
+          "expression": "for ages"
+        },
+        {
+          "item": "l) caught my eye",
+          "expression": "caught my eye"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "attracted someone's attention"
+        },
+        {
+          "option": "b)",
+          "meaning": "for a very long period of time"
+        },
+        {
+          "option": "c)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        },
+        {
+          "option": "d)",
+          "meaning": "leave or abandon a situation"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "c",
+        "k": "b",
+        "l": "a"
+      }
+    },
+    {
+      "number": 2,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) chalk and cheese",
+          "expression": "chalk and cheese"
+        },
+        {
+          "item": "j) Vague",
+          "expression": "Vague"
+        },
+        {
+          "item": "k) give away",
+          "expression": "give away"
+        },
+        {
+          "item": "l) fly high",
+          "expression": "fly high"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "completely different from each other"
+        },
+        {
+          "option": "b)",
+          "meaning": "be successful / ambitious"
+        },
+        {
+          "option": "c)",
+          "meaning": "reveal a secret or distribute freely"
+        },
+        {
+          "option": "d)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "d",
+        "k": "c",
+        "l": "b"
+      }
+    },
+    {
+      "number": 3,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) Bill of mortality",
+          "expression": "Bill of mortality"
+        },
+        {
+          "item": "j) call the shots",
+          "expression": "call the shots"
+        },
+        {
+          "item": "k) plunge in",
+          "expression": "plunge in"
+        },
+        {
+          "item": "l) Vague",
+          "expression": "Vague"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "take charge and make key decisions"
+        },
+        {
+          "option": "b)",
+          "meaning": "go straight to the topic / start dealing with something immediately"
+        },
+        {
+          "option": "c)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        },
+        {
+          "option": "d)",
+          "meaning": "an official weekly list or record of deaths"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "a",
+        "k": "b",
+        "l": "c"
+      }
+    },
+    {
+      "number": 4,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) caught my eye",
+          "expression": "caught my eye"
+        },
+        {
+          "item": "j) break the ice",
+          "expression": "break the ice"
+        },
+        {
+          "item": "k) Emancipation",
+          "expression": "Emancipation"
+        },
+        {
+          "item": "l) take up",
+          "expression": "take up"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "liberation / freeing from social or legal restrictions"
+        },
+        {
+          "option": "b)",
+          "meaning": "relieve tension and start a conversation"
+        },
+        {
+          "option": "c)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "d)",
+          "meaning": "attracted someone's attention"
+        }
+      ],
+      "answerKey": {
+        "i": "d",
+        "j": "b",
+        "k": "a",
+        "l": "c"
+      }
+    },
+    {
+      "number": 5,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) a baker's dozen",
+          "expression": "a baker's dozen"
+        },
+        {
+          "item": "j) check in",
+          "expression": "check in"
+        },
+        {
+          "item": "k) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "l) look into",
+          "expression": "look into"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "investigate or examine carefully"
+        },
+        {
+          "option": "b)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        },
+        {
+          "option": "c)",
+          "meaning": "a group of thirteen (thirteen items)"
+        },
+        {
+          "option": "d)",
+          "meaning": "register or confirm arrival"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "d",
+        "k": "b",
+        "l": "a"
+      }
+    },
+    {
+      "number": 6,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) put out",
+          "expression": "put out"
+        },
+        {
+          "item": "j) Vague",
+          "expression": "Vague"
+        },
+        {
+          "item": "k) Emancipation",
+          "expression": "Emancipation"
+        },
+        {
+          "item": "l) chalk and cheese",
+          "expression": "chalk and cheese"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "liberation / freeing from social or legal restrictions"
+        },
+        {
+          "option": "b)",
+          "meaning": "extinguish a flame or fire"
+        },
+        {
+          "option": "c)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        },
+        {
+          "option": "d)",
+          "meaning": "completely different from each other"
+        }
+      ],
+      "answerKey": {
+        "i": "b",
+        "j": "c",
+        "k": "a",
+        "l": "d"
+      }
+    },
+    {
+      "number": 7,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) calm down",
+          "expression": "calm down"
+        },
+        {
+          "item": "j) break the ice",
+          "expression": "break the ice"
+        },
+        {
+          "item": "k) Bill of mortality",
+          "expression": "Bill of mortality"
+        },
+        {
+          "item": "l) icing on the cake",
+          "expression": "icing on the cake"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "an extra good thing added to something already good"
+        },
+        {
+          "option": "b)",
+          "meaning": "make or remain quiet / peaceful"
+        },
+        {
+          "option": "c)",
+          "meaning": "an official weekly list or record of deaths"
+        },
+        {
+          "option": "d)",
+          "meaning": "relieve tension and start a conversation"
+        }
+      ],
+      "answerKey": {
+        "i": "b",
+        "j": "d",
+        "k": "c",
+        "l": "a"
+      }
+    },
+    {
+      "number": 8,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) check in",
+          "expression": "check in"
+        },
+        {
+          "item": "j) raining cats and dogs",
+          "expression": "raining cats and dogs"
+        },
+        {
+          "item": "k) take up",
+          "expression": "take up"
+        },
+        {
+          "item": "l) Vague",
+          "expression": "Vague"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "register or confirm arrival"
+        },
+        {
+          "option": "b)",
+          "meaning": "start doing a job, hobby, or activity"
+        },
+        {
+          "option": "c)",
+          "meaning": "raining very heavily"
+        },
+        {
+          "option": "d)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        }
+      ],
+      "answerKey": {
+        "i": "a",
+        "j": "c",
+        "k": "b",
+        "l": "d"
+      }
+    },
+    {
+      "number": 9,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) caught my eye",
+          "expression": "caught my eye"
+        },
+        {
+          "item": "j) Indignant",
+          "expression": "Indignant"
+        },
+        {
+          "item": "k) check in",
+          "expression": "check in"
+        },
+        {
+          "item": "l) Malice",
+          "expression": "Malice"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "register or confirm arrival"
+        },
+        {
+          "option": "b)",
+          "meaning": "the desire to harm or annoy others; ill will"
+        },
+        {
+          "option": "c)",
+          "meaning": "attracted someone's attention"
+        },
+        {
+          "option": "d)",
+          "meaning": "feeling or showing anger at unfair treatment"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "d",
+        "k": "a",
+        "l": "b"
+      }
+    },
+    {
+      "number": 10,
+      "difficulty": "Difficult",
+      "partA": [
+        {
+          "item": "i) look into",
+          "expression": "look into"
+        },
+        {
+          "item": "j) Vague",
+          "expression": "Vague"
+        },
+        {
+          "item": "k) all's fair in love and war",
+          "expression": "all's fair in love and war"
+        },
+        {
+          "item": "l) break the ice",
+          "expression": "break the ice"
+        }
+      ],
+      "partB": [
+        {
+          "option": "a)",
+          "meaning": "relieve tension and start a conversation"
+        },
+        {
+          "option": "b)",
+          "meaning": "all behavior is acceptable in extreme situations"
+        },
+        {
+          "option": "c)",
+          "meaning": "investigate or examine carefully"
+        },
+        {
+          "option": "d)",
+          "meaning": "not clearly expressed, perceived, or defined"
+        }
+      ],
+      "answerKey": {
+        "i": "c",
+        "j": "d",
+        "k": "b",
+        "l": "a"
+      }
+    }
+  ]
+}

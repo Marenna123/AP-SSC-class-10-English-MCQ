@@ -1,0 +1,6 @@
+{
+  "name": "AP SSC Class 10 English MCQ Learning App",
+  "description": "Mobile-first MCQ learning and practice application for AP SSC Class 10 English 2026–27 syllabus covering Prose, Poems, Grammar, and Vocabulary with difficulty modes, test simulators, retry, bookmarks, and instant explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

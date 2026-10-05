@@ -1,0 +1,1875 @@
+{
+  "questionNo": 33,
+  "title": "Phrasal Verbs & Idiomatic Expressions",
+  "blueprint": {
+    "instruction": "Use the following phrasal verbs and idiomatic expressions (Language expressions) in sentences of your own.",
+    "marks": "2 × 1 = 2 Marks"
+  },
+  "uiStructure": {
+    "mainScreen": [
+      "Phrasal Verbs",
+      "Idiomatic Expressions",
+      "Practice Questions"
+    ],
+    "practiceLevels": {
+      "Simple": 20,
+      "Medium": 20,
+      "Difficult": 10
+    }
+  },
+  "preparation": {
+    "phrasalVerbs": [
+      {
+        "no": 1,
+        "expression": "Break down",
+        "meaning": "stop working / fail",
+        "example": "The bus broke down on the way to school."
+      },
+      {
+        "no": 2,
+        "expression": "Carry out",
+        "meaning": "perform / conduct",
+        "example": "The students carried out an experiment."
+      },
+      {
+        "no": 3,
+        "expression": "Check in",
+        "meaning": "register on arrival",
+        "example": "We checked in at the hotel."
+      },
+      {
+        "no": 4,
+        "expression": "Check out",
+        "meaning": "leave a hotel after staying there",
+        "example": "We checked out of the hotel in the morning."
+      },
+      {
+        "no": 5,
+        "expression": "Chugged into",
+        "meaning": "entered slowly with a heavy sound",
+        "example": "The train chugged into the station."
+      },
+      {
+        "no": 6,
+        "expression": "Draw upon",
+        "meaning": "use as a source",
+        "example": "The writer drew upon his experience."
+      },
+      {
+        "no": 7,
+        "expression": "Drive off",
+        "meaning": "leave in a vehicle",
+        "example": "The car drove off quickly."
+      },
+      {
+        "no": 8,
+        "expression": "Fill in",
+        "meaning": "complete information in a form",
+        "example": "Please fill in the application form."
+      },
+      {
+        "no": 9,
+        "expression": "Find out",
+        "meaning": "discover / learn",
+        "example": "I want to find out the truth."
+      },
+      {
+        "no": 10,
+        "expression": "Get on",
+        "meaning": "board a vehicle",
+        "example": "We got on the bus."
+      },
+      {
+        "no": 11,
+        "expression": "Give away",
+        "meaning": "give something freely",
+        "example": "She gave away her old clothes."
+      },
+      {
+        "no": 12,
+        "expression": "Give in",
+        "meaning": "stop resisting",
+        "example": "He finally gave in to their request."
+      },
+      {
+        "no": 13,
+        "expression": "Give up",
+        "meaning": "stop / quit",
+        "example": "Never give up your efforts."
+      },
+      {
+        "no": 14,
+        "expression": "Go out",
+        "meaning": "leave home to go somewhere",
+        "example": "We went out for dinner."
+      },
+      {
+        "no": 15,
+        "expression": "Look for",
+        "meaning": "try to find",
+        "example": "I am looking for my pen."
+      },
+      {
+        "no": 16,
+        "expression": "Look up",
+        "meaning": "search for information",
+        "example": "I looked up the word in a dictionary."
+      },
+      {
+        "no": 17,
+        "expression": "Picked up",
+        "meaning": "lifted / collected",
+        "example": "He picked up the book from the floor."
+      },
+      {
+        "no": 18,
+        "expression": "Put in",
+        "meaning": "place inside",
+        "example": "She put in the key."
+      },
+      {
+        "no": 19,
+        "expression": "Take away",
+        "meaning": "remove / carry away",
+        "example": "Please take away these boxes."
+      },
+      {
+        "no": 20,
+        "expression": "Take in",
+        "meaning": "understand / absorb",
+        "example": "It was difficult to take in all the information."
+      },
+      {
+        "no": 21,
+        "expression": "Take out",
+        "meaning": "remove / bring outside",
+        "example": "He took out his notebook."
+      },
+      {
+        "no": 22,
+        "expression": "Take up",
+        "meaning": "begin an activity",
+        "example": "She took up painting."
+      },
+      {
+        "no": 23,
+        "expression": "Turn off",
+        "meaning": "stop a machine or device",
+        "example": "Please turn off the fan."
+      },
+      {
+        "no": 24,
+        "expression": "Vouch for",
+        "meaning": "confirm that someone is trustworthy",
+        "example": "I can vouch for his honesty."
+      },
+      {
+        "no": 25,
+        "expression": "Wake up",
+        "meaning": "stop sleeping",
+        "example": "I wake up early every morning."
+      },
+      {
+        "no": 26,
+        "expression": "Walk away",
+        "meaning": "leave a place or situation",
+        "example": "She walked away without speaking."
+      },
+      {
+        "no": 27,
+        "expression": "Walk in",
+        "meaning": "enter a place",
+        "example": "He walked in and sat down."
+      },
+      {
+        "no": 28,
+        "expression": "Walk out",
+        "meaning": "leave suddenly",
+        "example": "The workers walked out of the meeting."
+      }
+    ],
+    "idiomaticExpressions": [
+      {
+        "no": 1,
+        "expression": "A baker’s dozen",
+        "meaning": "thirteen",
+        "example": "The baker gave us a baker’s dozen of buns."
+      },
+      {
+        "no": 2,
+        "expression": "All’s fair in love and war",
+        "meaning": "anything may be considered acceptable in difficult competition or conflict",
+        "example": "He believed that all’s fair in love and war."
+      },
+      {
+        "no": 3,
+        "expression": "Break the ice",
+        "meaning": "make people feel comfortable in a new situation",
+        "example": "The teacher told a joke to break the ice."
+      },
+      {
+        "no": 4,
+        "expression": "Butter someone up",
+        "meaning": "praise someone to gain their favour",
+        "example": "He tried to butter his teacher up before asking for help."
+      },
+      {
+        "no": 5,
+        "expression": "Call the shots",
+        "meaning": "make the important decisions",
+        "example": "The manager calls the shots in the company."
+      },
+      {
+        "no": 6,
+        "expression": "Cat got your tongue",
+        "meaning": "why are you silent?",
+        "example": "Cat got your tongue? Why aren't you answering?"
+      },
+      {
+        "no": 7,
+        "expression": "Chalk and cheese",
+        "meaning": "completely different",
+        "example": "The two brothers are like chalk and cheese."
+      },
+      {
+        "no": 8,
+        "expression": "Crossed my mind",
+        "meaning": "came into my thoughts",
+        "example": "It crossed my mind that I had forgotten my book."
+      },
+      {
+        "no": 9,
+        "expression": "Egg on one’s face",
+        "meaning": "embarrassment caused by a mistake",
+        "example": "His mistake left him with egg on his face."
+      },
+      {
+        "no": 10,
+        "expression": "Icing on the cake",
+        "meaning": "something extra that makes a good situation even better",
+        "example": "Winning the prize was the icing on the cake."
+      },
+      {
+        "no": 11,
+        "expression": "Length and breadth",
+        "meaning": "every part of a place",
+        "example": "We travelled through the length and breadth of the country."
+      },
+      {
+        "no": 12,
+        "expression": "Light-fingered",
+        "meaning": "inclined to steal",
+        "example": "The shopkeeper suspected that the customer was light-fingered."
+      },
+      {
+        "no": 13,
+        "expression": "Long gone",
+        "meaning": "gone for a long time / no longer present",
+        "example": "When we arrived, the bus was long gone."
+      },
+      {
+        "no": 14,
+        "expression": "Not to lose heart / lose one's heart",
+        "meaning": "not to become discouraged / become deeply attracted",
+        "example": "Do not lose heart when you face difficulties."
+      },
+      {
+        "no": 15,
+        "expression": "Out came the treats",
+        "meaning": "the treats were brought out",
+        "example": "When the children arrived, out came the treats."
+      },
+      {
+        "no": 16,
+        "expression": "Quake in one's boots",
+        "meaning": "be very frightened",
+        "example": "The boy quaked in his boots when he saw the snake."
+      },
+      {
+        "no": 17,
+        "expression": "Raining cats and dogs",
+        "meaning": "raining very heavily",
+        "example": "It was raining cats and dogs yesterday."
+      }
+    ]
+  },
+  "practice": {
+    "simple": [
+      {
+        "id": "q33_01",
+        "number": 1,
+        "difficulty": "simple",
+        "question": "The bus ________ on the way to school.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Break down"
+          },
+          {
+            "value": "B",
+            "label": "Cat got your tongue"
+          },
+          {
+            "value": "C",
+            "label": "Check out"
+          },
+          {
+            "value": "D",
+            "label": "Walk away"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Break down is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Break down. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_02",
+        "number": 2,
+        "difficulty": "simple",
+        "question": "Please ________ this application form carefully.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Fill in"
+          },
+          {
+            "value": "B",
+            "label": "Check in"
+          },
+          {
+            "value": "C",
+            "label": "Raining cats and dogs"
+          },
+          {
+            "value": "D",
+            "label": "All’s fair in love and war"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Fill in is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Fill in. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_03",
+        "number": 3,
+        "difficulty": "simple",
+        "question": "I want to ________ more information about the competition.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Quake in one's boots"
+          },
+          {
+            "value": "B",
+            "label": "Find out"
+          },
+          {
+            "value": "C",
+            "label": "Take away"
+          },
+          {
+            "value": "D",
+            "label": "Chalk and cheese"
+          }
+        ],
+        "correctAnswer": "B",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Find out is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Find out. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_04",
+        "number": 4,
+        "difficulty": "simple",
+        "question": "We ________ at the hotel at 6 p.m.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Quake in one's boots"
+          },
+          {
+            "value": "B",
+            "label": "Check in"
+          },
+          {
+            "value": "C",
+            "label": "Chalk and cheese"
+          },
+          {
+            "value": "D",
+            "label": "Find out"
+          }
+        ],
+        "correctAnswer": "B",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Check in is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Check in. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_05",
+        "number": 5,
+        "difficulty": "simple",
+        "question": "Please ________ the lights before you leave the room.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Turn off"
+          },
+          {
+            "value": "B",
+            "label": "Wake up"
+          },
+          {
+            "value": "C",
+            "label": "Give away"
+          },
+          {
+            "value": "D",
+            "label": "Walk out"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Turn off is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Turn off. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_06",
+        "number": 6,
+        "difficulty": "simple",
+        "question": "She is ________ her missing notebook.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Look for"
+          },
+          {
+            "value": "B",
+            "label": "Chalk and cheese"
+          },
+          {
+            "value": "C",
+            "label": "Picked up"
+          },
+          {
+            "value": "D",
+            "label": "Not to lose heart / lose one's heart"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Look for is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Look for. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_07",
+        "number": 7,
+        "difficulty": "simple",
+        "question": "He ________ the book from the floor.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Walk away"
+          },
+          {
+            "value": "B",
+            "label": "Break down"
+          },
+          {
+            "value": "C",
+            "label": "Get on"
+          },
+          {
+            "value": "D",
+            "label": "Picked up"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Picked up is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Picked up. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_08",
+        "number": 8,
+        "difficulty": "simple",
+        "question": "Never ________ your dreams.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Call the shots"
+          },
+          {
+            "value": "B",
+            "label": "Look up"
+          },
+          {
+            "value": "C",
+            "label": "All’s fair in love and war"
+          },
+          {
+            "value": "D",
+            "label": "Give up"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Give up is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Give up. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_09",
+        "number": 9,
+        "difficulty": "simple",
+        "question": "The teacher told a joke to ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Out came the treats"
+          },
+          {
+            "value": "B",
+            "label": "Turn off"
+          },
+          {
+            "value": "C",
+            "label": "Give up"
+          },
+          {
+            "value": "D",
+            "label": "Break the ice"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Break the ice is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Break the ice. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_10",
+        "number": 10,
+        "difficulty": "simple",
+        "question": "The two sisters are completely different; they are like ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Find out"
+          },
+          {
+            "value": "B",
+            "label": "All’s fair in love and war"
+          },
+          {
+            "value": "C",
+            "label": "Turn off"
+          },
+          {
+            "value": "D",
+            "label": "Chalk and cheese"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Chalk and cheese is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Chalk and cheese. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_11",
+        "number": 11,
+        "difficulty": "simple",
+        "question": "It was ________ yesterday, so we stayed at home.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Give up"
+          },
+          {
+            "value": "B",
+            "label": "Raining cats and dogs"
+          },
+          {
+            "value": "C",
+            "label": "Out came the treats"
+          },
+          {
+            "value": "D",
+            "label": "Give away"
+          }
+        ],
+        "correctAnswer": "B",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Raining cats and dogs is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Raining cats and dogs. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_12",
+        "number": 12,
+        "difficulty": "simple",
+        "question": "The manager ________ in the company.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Call the shots"
+          },
+          {
+            "value": "B",
+            "label": "Look for"
+          },
+          {
+            "value": "C",
+            "label": "Put in"
+          },
+          {
+            "value": "D",
+            "label": "Long gone"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Call the shots is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Call the shots. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_13",
+        "number": 13,
+        "difficulty": "simple",
+        "question": "Winning the trophy was the ________ to an already successful day.",
+        "options": [
+          {
+            "value": "A",
+            "label": "All’s fair in love and war"
+          },
+          {
+            "value": "B",
+            "label": "Picked up"
+          },
+          {
+            "value": "C",
+            "label": "Put in"
+          },
+          {
+            "value": "D",
+            "label": "Icing on the cake"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Icing on the cake is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Icing on the cake. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_14",
+        "number": 14,
+        "difficulty": "simple",
+        "question": "The baker gave us thirteen buns — ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Butter someone up"
+          },
+          {
+            "value": "B",
+            "label": "A baker’s dozen"
+          },
+          {
+            "value": "C",
+            "label": "Fill in"
+          },
+          {
+            "value": "D",
+            "label": "Draw upon"
+          }
+        ],
+        "correctAnswer": "B",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — A baker’s dozen is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is A baker’s dozen. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_15",
+        "number": 15,
+        "difficulty": "simple",
+        "question": "Don't ________ when you face difficulties.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Not to lose heart / lose one's heart"
+          },
+          {
+            "value": "B",
+            "label": "Butter someone up"
+          },
+          {
+            "value": "C",
+            "label": "Take out"
+          },
+          {
+            "value": "D",
+            "label": "All’s fair in love and war"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Not to lose heart / lose one's heart is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Not to lose heart / lose one's heart. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_16",
+        "number": 16,
+        "difficulty": "simple",
+        "question": "We ________ the bus at the next stop.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Get on"
+          },
+          {
+            "value": "B",
+            "label": "Butter someone up"
+          },
+          {
+            "value": "C",
+            "label": "Break down"
+          },
+          {
+            "value": "D",
+            "label": "Turn off"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Get on is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Get on. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_17",
+        "number": 17,
+        "difficulty": "simple",
+        "question": "He ________ his old clothes to poor children.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Give away"
+          },
+          {
+            "value": "B",
+            "label": "Drive off"
+          },
+          {
+            "value": "C",
+            "label": "Carry out"
+          },
+          {
+            "value": "D",
+            "label": "Turn off"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Give away is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Give away. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_18",
+        "number": 18,
+        "difficulty": "simple",
+        "question": "I ________ the word in the dictionary.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Egg on one’s face"
+          },
+          {
+            "value": "B",
+            "label": "Carry out"
+          },
+          {
+            "value": "C",
+            "label": "Look up"
+          },
+          {
+            "value": "D",
+            "label": "Get on"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Look up is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Look up. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_19",
+        "number": 19,
+        "difficulty": "simple",
+        "question": "When the children arrived, ________ the treats.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Call the shots"
+          },
+          {
+            "value": "B",
+            "label": "Vouch for"
+          },
+          {
+            "value": "C",
+            "label": "Out came the treats"
+          },
+          {
+            "value": "D",
+            "label": "Fill in"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Out came the treats is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Out came the treats. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_20",
+        "number": 20,
+        "difficulty": "simple",
+        "question": "Why are you so silent? ________?",
+        "options": [
+          {
+            "value": "A",
+            "label": "Cat got your tongue"
+          },
+          {
+            "value": "B",
+            "label": "Give away"
+          },
+          {
+            "value": "C",
+            "label": "Walk away"
+          },
+          {
+            "value": "D",
+            "label": "Break the ice"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Cat got your tongue is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Cat got your tongue. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      }
+    ],
+    "medium": [
+      {
+        "id": "q33_21",
+        "number": 21,
+        "difficulty": "medium",
+        "question": "The scientists ________ an experiment to test the new method.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Picked up"
+          },
+          {
+            "value": "B",
+            "label": "Chalk and cheese"
+          },
+          {
+            "value": "C",
+            "label": "Vouch for"
+          },
+          {
+            "value": "D",
+            "label": "Carry out"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Carry out is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Carry out. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_22",
+        "number": 22,
+        "difficulty": "medium",
+        "question": "The writer ________ his childhood experiences while writing the story.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Draw upon"
+          },
+          {
+            "value": "B",
+            "label": "Walk away"
+          },
+          {
+            "value": "C",
+            "label": "Call the shots"
+          },
+          {
+            "value": "D",
+            "label": "Check out"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Draw upon is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Draw upon. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_23",
+        "number": 23,
+        "difficulty": "medium",
+        "question": "After arguing for a long time, he finally ________ and accepted their decision.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Give in"
+          },
+          {
+            "value": "B",
+            "label": "Go out"
+          },
+          {
+            "value": "C",
+            "label": "Cat got your tongue"
+          },
+          {
+            "value": "D",
+            "label": "Take in"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Give in is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Give in. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_24",
+        "number": 24,
+        "difficulty": "medium",
+        "question": "She decided to ________ painting as a hobby.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Take up"
+          },
+          {
+            "value": "B",
+            "label": "Take away"
+          },
+          {
+            "value": "C",
+            "label": "Walk in"
+          },
+          {
+            "value": "D",
+            "label": "Give in"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Take up is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Take up. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_25",
+        "number": 25,
+        "difficulty": "medium",
+        "question": "It was difficult to ________ everything the teacher explained in one lesson.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Take away"
+          },
+          {
+            "value": "B",
+            "label": "Draw upon"
+          },
+          {
+            "value": "C",
+            "label": "Give up"
+          },
+          {
+            "value": "D",
+            "label": "Take in"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Take in is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Take in. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_26",
+        "number": 26,
+        "difficulty": "medium",
+        "question": "The car stopped at the gate and then ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Walk in"
+          },
+          {
+            "value": "B",
+            "label": "Not to lose heart / lose one's heart"
+          },
+          {
+            "value": "C",
+            "label": "Drive off"
+          },
+          {
+            "value": "D",
+            "label": "Carry out"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Drive off is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Drive off. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_27",
+        "number": 27,
+        "difficulty": "medium",
+        "question": "I can ________ his honesty because I have known him for many years.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Vouch for"
+          },
+          {
+            "value": "B",
+            "label": "Break down"
+          },
+          {
+            "value": "C",
+            "label": "Walk out"
+          },
+          {
+            "value": "D",
+            "label": "Take out"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Vouch for is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Vouch for. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_28",
+        "number": 28,
+        "difficulty": "medium",
+        "question": "The workers became unhappy with the decision and ________ of the meeting.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Vouch for"
+          },
+          {
+            "value": "B",
+            "label": "Give away"
+          },
+          {
+            "value": "C",
+            "label": "Walk out"
+          },
+          {
+            "value": "D",
+            "label": "Call the shots"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Walk out is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Walk out. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_29",
+        "number": 29,
+        "difficulty": "medium",
+        "question": "When we reached the station, the train was ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Walk away"
+          },
+          {
+            "value": "B",
+            "label": "Out came the treats"
+          },
+          {
+            "value": "C",
+            "label": "Length and breadth"
+          },
+          {
+            "value": "D",
+            "label": "Long gone"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Long gone is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Long gone. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_30",
+        "number": 30,
+        "difficulty": "medium",
+        "question": "His mistake was embarrassing, and he was left with ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Egg on one’s face"
+          },
+          {
+            "value": "B",
+            "label": "Check in"
+          },
+          {
+            "value": "C",
+            "label": "Go out"
+          },
+          {
+            "value": "D",
+            "label": "Long gone"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Egg on one’s face is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Egg on one’s face. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_31",
+        "number": 31,
+        "difficulty": "medium",
+        "question": "The teacher used a simple activity to ________ before starting the discussion.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Vouch for"
+          },
+          {
+            "value": "B",
+            "label": "Give up"
+          },
+          {
+            "value": "C",
+            "label": "Put in"
+          },
+          {
+            "value": "D",
+            "label": "Break the ice"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Break the ice is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Break the ice. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_32",
+        "number": 32,
+        "difficulty": "medium",
+        "question": "My two friends have completely different personalities. They are ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Vouch for"
+          },
+          {
+            "value": "B",
+            "label": "Find out"
+          },
+          {
+            "value": "C",
+            "label": "Take out"
+          },
+          {
+            "value": "D",
+            "label": "Chalk and cheese"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Chalk and cheese is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Chalk and cheese. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_33",
+        "number": 33,
+        "difficulty": "medium",
+        "question": "It suddenly ________ that I had left my keys at home.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Draw upon"
+          },
+          {
+            "value": "B",
+            "label": "Long gone"
+          },
+          {
+            "value": "C",
+            "label": "Raining cats and dogs"
+          },
+          {
+            "value": "D",
+            "label": "Crossed my mind"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Crossed my mind is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Crossed my mind. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_34",
+        "number": 34,
+        "difficulty": "medium",
+        "question": "He praised the manager repeatedly because he wanted to ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Crossed my mind"
+          },
+          {
+            "value": "B",
+            "label": "Chalk and cheese"
+          },
+          {
+            "value": "C",
+            "label": "Butter someone up"
+          },
+          {
+            "value": "D",
+            "label": "Cat got your tongue"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Butter someone up is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Butter someone up. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_35",
+        "number": 35,
+        "difficulty": "medium",
+        "question": "The shopkeeper was careful because the customer seemed ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Quake in one's boots"
+          },
+          {
+            "value": "B",
+            "label": "Walk out"
+          },
+          {
+            "value": "C",
+            "label": "Light-fingered"
+          },
+          {
+            "value": "D",
+            "label": "Give up"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Light-fingered is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Light-fingered. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_36",
+        "number": 36,
+        "difficulty": "medium",
+        "question": "We travelled through the ________ of the country.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Vouch for"
+          },
+          {
+            "value": "B",
+            "label": "Drive off"
+          },
+          {
+            "value": "C",
+            "label": "Length and breadth"
+          },
+          {
+            "value": "D",
+            "label": "Draw upon"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Length and breadth is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Length and breadth. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_37",
+        "number": 37,
+        "difficulty": "medium",
+        "question": "The train slowly ________ the station.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Chugged into"
+          },
+          {
+            "value": "B",
+            "label": "Take in"
+          },
+          {
+            "value": "C",
+            "label": "Get on"
+          },
+          {
+            "value": "D",
+            "label": "Give away"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Chugged into is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Chugged into. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_38",
+        "number": 38,
+        "difficulty": "medium",
+        "question": "Please ________ these old newspapers from the room.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Take away"
+          },
+          {
+            "value": "B",
+            "label": "Give away"
+          },
+          {
+            "value": "C",
+            "label": "Look for"
+          },
+          {
+            "value": "D",
+            "label": "Picked up"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Take away is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Take away. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_39",
+        "number": 39,
+        "difficulty": "medium",
+        "question": "She ________ early every morning so that she can exercise.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Wake up"
+          },
+          {
+            "value": "B",
+            "label": "Fill in"
+          },
+          {
+            "value": "C",
+            "label": "Put in"
+          },
+          {
+            "value": "D",
+            "label": "Carry out"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Wake up is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Wake up. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_40",
+        "number": 40,
+        "difficulty": "medium",
+        "question": "He entered the room without knocking and simply ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Walk in"
+          },
+          {
+            "value": "B",
+            "label": "Call the shots"
+          },
+          {
+            "value": "C",
+            "label": "Look up"
+          },
+          {
+            "value": "D",
+            "label": "Picked up"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Walk in is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Walk in. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      }
+    ],
+    "difficult": [
+      {
+        "id": "q33_41",
+        "number": 41,
+        "difficulty": "difficult",
+        "question": "The principal asked the students to ________ the instructions in the laboratory.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Take in"
+          },
+          {
+            "value": "B",
+            "label": "Egg on one’s face"
+          },
+          {
+            "value": "C",
+            "label": "Carry out"
+          },
+          {
+            "value": "D",
+            "label": "Walk in"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Carry out is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Carry out. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_42",
+        "number": 42,
+        "difficulty": "difficult",
+        "question": "Ravi felt discouraged by the difficult question. His teacher told him, “________; continue trying.”",
+        "options": [
+          {
+            "value": "A",
+            "label": "Give in"
+          },
+          {
+            "value": "B",
+            "label": "Wake up"
+          },
+          {
+            "value": "C",
+            "label": "All’s fair in love and war"
+          },
+          {
+            "value": "D",
+            "label": "Not to lose heart / lose one's heart"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Not to lose heart / lose one's heart is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Not to lose heart / lose one's heart. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_43",
+        "number": 43,
+        "difficulty": "difficult",
+        "question": "The new teacher organised a short game to help the students ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Give up"
+          },
+          {
+            "value": "B",
+            "label": "Break the ice"
+          },
+          {
+            "value": "C",
+            "label": "Find out"
+          },
+          {
+            "value": "D",
+            "label": "Wake up"
+          }
+        ],
+        "correctAnswer": "B",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Break the ice is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Break the ice. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_44",
+        "number": 44,
+        "difficulty": "difficult",
+        "question": "The manager makes all the major decisions. In other words, he ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "A baker’s dozen"
+          },
+          {
+            "value": "B",
+            "label": "Break down"
+          },
+          {
+            "value": "C",
+            "label": "Call the shots"
+          },
+          {
+            "value": "D",
+            "label": "Take out"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Call the shots is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Call the shots. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_45",
+        "number": 45,
+        "difficulty": "difficult",
+        "question": "Anita and her sister have completely different tastes. They are like ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Chalk and cheese"
+          },
+          {
+            "value": "B",
+            "label": "Fill in"
+          },
+          {
+            "value": "C",
+            "label": "Give in"
+          },
+          {
+            "value": "D",
+            "label": "Quake in one's boots"
+          }
+        ],
+        "correctAnswer": "A",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Chalk and cheese is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Chalk and cheese. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_46",
+        "number": 46,
+        "difficulty": "difficult",
+        "question": "The team had already achieved its main goal. Receiving a special award was the ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Out came the treats"
+          },
+          {
+            "value": "B",
+            "label": "Walk out"
+          },
+          {
+            "value": "C",
+            "label": "Walk away"
+          },
+          {
+            "value": "D",
+            "label": "Icing on the cake"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Icing on the cake is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Icing on the cake. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_47",
+        "number": 47,
+        "difficulty": "difficult",
+        "question": "The speaker suddenly stopped answering questions. The audience wondered, “________?”",
+        "options": [
+          {
+            "value": "A",
+            "label": "Walk away"
+          },
+          {
+            "value": "B",
+            "label": "Cat got your tongue"
+          },
+          {
+            "value": "C",
+            "label": "Give away"
+          },
+          {
+            "value": "D",
+            "label": "Chugged into"
+          }
+        ],
+        "correctAnswer": "B",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Cat got your tongue is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Cat got your tongue. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_48",
+        "number": 48,
+        "difficulty": "difficult",
+        "question": "The author used his own experiences and knowledge as a source. He ________ his experience.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Check in"
+          },
+          {
+            "value": "B",
+            "label": "Put in"
+          },
+          {
+            "value": "C",
+            "label": "Icing on the cake"
+          },
+          {
+            "value": "D",
+            "label": "Draw upon"
+          }
+        ],
+        "correctAnswer": "D",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Draw upon is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Draw upon. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_49",
+        "number": 49,
+        "difficulty": "difficult",
+        "question": "We arrived at the railway station after the train had left. It was ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Out came the treats"
+          },
+          {
+            "value": "B",
+            "label": "Long gone"
+          },
+          {
+            "value": "C",
+            "label": "Egg on one’s face"
+          },
+          {
+            "value": "D",
+            "label": "Length and breadth"
+          }
+        ],
+        "correctAnswer": "B",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Long gone is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Long gone. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      },
+      {
+        "id": "q33_50",
+        "number": 50,
+        "difficulty": "difficult",
+        "question": "As soon as the guests arrived at the birthday party, ________.",
+        "options": [
+          {
+            "value": "A",
+            "label": "Walk away"
+          },
+          {
+            "value": "B",
+            "label": "Look for"
+          },
+          {
+            "value": "C",
+            "label": "Out came the treats"
+          },
+          {
+            "value": "D",
+            "label": "Check in"
+          }
+        ],
+        "correctAnswer": "C",
+        "feedback": {
+          "onCorrect": "✓ Right Answer — Out came the treats is the expression that correctly completes the sentence.",
+          "onWrong": "✗ Wrong Answer — The correct answer is Out came the treats. Review its meaning and usage."
+        },
+        "showFeedbackImmediately": true,
+        "allowNextQuestionAfterFeedback": true
+      }
+    ]
+  },
+  "practiceRules": {
+    "totalQuestions": 50,
+    "answerOptions": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correctAnswerPositions": "Randomized; no fixed predictable pattern",
+    "immediateFeedback": true,
+    "feedbackBeforeNextQuestion": true,
+    "finalScoreAfterCompletion": true
+  },
+  "navigationFlow": [
+    "Q.33 Home",
+    "Phrasal Verbs → 28 preparation items",
+    "Idiomatic Expressions → 17 preparation items",
+    "Practice Questions → Simple / Medium / Difficult",
+    "Attempt question → Immediate Right/Wrong feedback → Explanation → Next question",
+    "Complete set → Final score"
+  ]
+}

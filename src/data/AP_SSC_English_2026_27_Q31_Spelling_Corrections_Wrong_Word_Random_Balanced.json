@@ -1,0 +1,671 @@
+{
+  "question_number": "Q31",
+  "title": "Spelling Corrections",
+  "subject": "AP SSC Class 10 English 2026–27",
+  "total_questions": 50,
+  "difficulty_distribution": {
+    "Simple": 20,
+    "Medium": 20,
+    "Difficult": 10
+  },
+  "answer_position_distribution": {
+    "A": 13,
+    "B": 13,
+    "C": 12,
+    "D": 12
+  },
+  "question_type": "Choose the wrongly spelt word. Each question contains four different textbook vocabulary words; exactly one is misspelt.",
+  "source_basis": "Vocabulary words selected from the Class 10 English textbook/workbook vocabulary already identified for the Q31 preparation. The spelling-check format follows the user's requested exam style.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "oppression",
+        "B": "achievment",
+        "C": "achievement",
+        "D": "inauguration"
+      },
+      "correct_answer": "B",
+      "difficulty": "Simple",
+      "explanation": "\"achievment\" is wrongly spelt. The correct spelling is \"achievement\"."
+    },
+    {
+      "id": 2,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "glorious",
+        "B": "independant",
+        "C": "independent",
+        "D": "international"
+      },
+      "correct_answer": "B",
+      "difficulty": "Simple",
+      "explanation": "\"independant\" is wrongly spelt. The correct spelling is \"independent\"."
+    },
+    {
+      "id": 3,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "sadness",
+        "B": "expression",
+        "C": "movement",
+        "D": "movment"
+      },
+      "correct_answer": "D",
+      "difficulty": "Simple",
+      "explanation": "\"movment\" is wrongly spelt. The correct spelling is \"movement\"."
+    },
+    {
+      "id": 4,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "uneducated",
+        "B": "impossible",
+        "C": "amiabble",
+        "D": "amiable"
+      },
+      "correct_answer": "C",
+      "difficulty": "Simple",
+      "explanation": "\"amiabble\" is wrongly spelt. The correct spelling is \"amiable\"."
+    },
+    {
+      "id": 5,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "correspondance",
+        "B": "correspondence",
+        "C": "illusion",
+        "D": "cowardice"
+      },
+      "correct_answer": "A",
+      "difficulty": "Simple",
+      "explanation": "\"correspondance\" is wrongly spelt. The correct spelling is \"correspondence\"."
+    },
+    {
+      "id": 6,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "unimaginable",
+        "B": "unintended",
+        "C": "unmindful",
+        "D": "unimaginible"
+      },
+      "correct_answer": "D",
+      "difficulty": "Simple",
+      "explanation": "\"unimaginible\" is wrongly spelt. The correct spelling is \"unimaginable\"."
+    },
+    {
+      "id": 7,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "ingenuity",
+        "B": "necessity",
+        "C": "incorrigible",
+        "D": "neccesity"
+      },
+      "correct_answer": "D",
+      "difficulty": "Simple",
+      "explanation": "\"neccesity\" is wrongly spelt. The correct spelling is \"necessity\"."
+    },
+    {
+      "id": 8,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "meaningless",
+        "B": "profitable",
+        "C": "meaningles",
+        "D": "childhood"
+      },
+      "correct_answer": "C",
+      "difficulty": "Simple",
+      "explanation": "\"meaningles\" is wrongly spelt. The correct spelling is \"meaningless\"."
+    },
+    {
+      "id": 9,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "unpredictable",
+        "B": "prosperous",
+        "C": "numerous",
+        "D": "prosporous"
+      },
+      "correct_answer": "D",
+      "difficulty": "Simple",
+      "explanation": "\"prosporous\" is wrongly spelt. The correct spelling is \"prosperous\"."
+    },
+    {
+      "id": 10,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "disappeared",
+        "B": "experience",
+        "C": "unfortunately",
+        "D": "unfortunatly"
+      },
+      "correct_answer": "D",
+      "difficulty": "Simple",
+      "explanation": "\"unfortunatly\" is wrongly spelt. The correct spelling is \"unfortunately\"."
+    },
+    {
+      "id": 11,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "international",
+        "B": "achievement",
+        "C": "generocity",
+        "D": "generosity"
+      },
+      "correct_answer": "C",
+      "difficulty": "Simple",
+      "explanation": "\"generocity\" is wrongly spelt. The correct spelling is \"generosity\"."
+    },
+    {
+      "id": 12,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "glorious",
+        "B": "correspondence",
+        "C": "independent",
+        "D": "independant"
+      },
+      "correct_answer": "D",
+      "difficulty": "Simple",
+      "explanation": "\"independant\" is wrongly spelt. The correct spelling is \"independent\"."
+    },
+    {
+      "id": 13,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "sorrowful",
+        "B": "expression",
+        "C": "sorrowfull",
+        "D": "movement"
+      },
+      "correct_answer": "C",
+      "difficulty": "Simple",
+      "explanation": "\"sorrowfull\" is wrongly spelt. The correct spelling is \"sorrowful\"."
+    },
+    {
+      "id": 14,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "sadness",
+        "B": "sadnes",
+        "C": "amiable",
+        "D": "impossible"
+      },
+      "correct_answer": "B",
+      "difficulty": "Simple",
+      "explanation": "\"sadnes\" is wrongly spelt. The correct spelling is \"sadness\"."
+    },
+    {
+      "id": 15,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "cowardice",
+        "B": "uneducated",
+        "C": "uneducatted",
+        "D": "illusion"
+      },
+      "correct_answer": "C",
+      "difficulty": "Simple",
+      "explanation": "\"uneducatted\" is wrongly spelt. The correct spelling is \"uneducated\"."
+    },
+    {
+      "id": 16,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "unintended",
+        "B": "unmindfull",
+        "C": "unmindful",
+        "D": "unimaginable"
+      },
+      "correct_answer": "B",
+      "difficulty": "Simple",
+      "explanation": "\"unmindfull\" is wrongly spelt. The correct spelling is \"unmindful\"."
+    },
+    {
+      "id": 17,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "incorrigabel",
+        "B": "incorrigible",
+        "C": "ingenuity",
+        "D": "necessity"
+      },
+      "correct_answer": "A",
+      "difficulty": "Simple",
+      "explanation": "\"incorrigabel\" is wrongly spelt. The correct spelling is \"incorrigible\"."
+    },
+    {
+      "id": 18,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "profitable",
+        "B": "profittable",
+        "C": "childhood",
+        "D": "prosperous"
+      },
+      "correct_answer": "B",
+      "difficulty": "Simple",
+      "explanation": "\"profittable\" is wrongly spelt. The correct spelling is \"profitable\"."
+    },
+    {
+      "id": 19,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "achievement",
+        "B": "numerous",
+        "C": "glorious",
+        "D": "numerious"
+      },
+      "correct_answer": "D",
+      "difficulty": "Simple",
+      "explanation": "\"numerious\" is wrongly spelt. The correct spelling is \"numerous\"."
+    },
+    {
+      "id": 20,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "experience",
+        "B": "international",
+        "C": "internationel",
+        "D": "inauguration"
+      },
+      "correct_answer": "C",
+      "difficulty": "Simple",
+      "explanation": "\"internationel\" is wrongly spelt. The correct spelling is \"international\"."
+    },
+    {
+      "id": 21,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "generosity",
+        "B": "oppression",
+        "C": "correspondence",
+        "D": "opresion"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium",
+      "explanation": "\"opresion\" is wrongly spelt. The correct spelling is \"oppression\"."
+    },
+    {
+      "id": 22,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "independet",
+        "B": "independent",
+        "C": "unpredictable",
+        "D": "disappeared"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium",
+      "explanation": "\"independet\" is wrongly spelt. The correct spelling is \"independent\"."
+    },
+    {
+      "id": 23,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "movement",
+        "B": "expresssion",
+        "C": "unfortunately",
+        "D": "expression"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium",
+      "explanation": "\"expresssion\" is wrongly spelt. The correct spelling is \"expression\"."
+    },
+    {
+      "id": 24,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "amiable",
+        "B": "sadness",
+        "C": "sorrowfull",
+        "D": "sorrowful"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium",
+      "explanation": "\"sorrowfull\" is wrongly spelt. The correct spelling is \"sorrowful\"."
+    },
+    {
+      "id": 25,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "impossable",
+        "B": "uneducated",
+        "C": "illusion",
+        "D": "impossible"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium",
+      "explanation": "\"impossable\" is wrongly spelt. The correct spelling is \"impossible\"."
+    },
+    {
+      "id": 26,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "unmindfull",
+        "B": "unimaginable",
+        "C": "cowardice",
+        "D": "unmindful"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium",
+      "explanation": "\"unmindfull\" is wrongly spelt. The correct spelling is \"unmindful\"."
+    },
+    {
+      "id": 27,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "necessity",
+        "B": "unintented",
+        "C": "unintended",
+        "D": "ingenuity"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium",
+      "explanation": "\"unintented\" is wrongly spelt. The correct spelling is \"unintended\"."
+    },
+    {
+      "id": 28,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "profitable",
+        "B": "incorrigible",
+        "C": "incorrigibel",
+        "D": "childhood"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium",
+      "explanation": "\"incorrigibel\" is wrongly spelt. The correct spelling is \"incorrigible\"."
+    },
+    {
+      "id": 29,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "meaningless",
+        "B": "meaningles",
+        "C": "numerous",
+        "D": "prosperous"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium",
+      "explanation": "\"meaningles\" is wrongly spelt. The correct spelling is \"meaningless\"."
+    },
+    {
+      "id": 30,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "glorious",
+        "B": "achievement",
+        "C": "international",
+        "D": "glorius"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium",
+      "explanation": "\"glorius\" is wrongly spelt. The correct spelling is \"glorious\"."
+    },
+    {
+      "id": 31,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "experience",
+        "B": "experiance",
+        "C": "correspondence",
+        "D": "inauguration"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium",
+      "explanation": "\"experiance\" is wrongly spelt. The correct spelling is \"experience\"."
+    },
+    {
+      "id": 32,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "oppresssion",
+        "B": "independent",
+        "C": "generosity",
+        "D": "oppression"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium",
+      "explanation": "\"oppresssion\" is wrongly spelt. The correct spelling is \"oppression\"."
+    },
+    {
+      "id": 33,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "unpredictable",
+        "B": "unpredicable",
+        "C": "unfortunately",
+        "D": "disappeared"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium",
+      "explanation": "\"unpredicable\" is wrongly spelt. The correct spelling is \"unpredictable\"."
+    },
+    {
+      "id": 34,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "expresion",
+        "B": "sadness",
+        "C": "expression",
+        "D": "movement"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium",
+      "explanation": "\"expresion\" is wrongly spelt. The correct spelling is \"expression\"."
+    },
+    {
+      "id": 35,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "impossible",
+        "B": "amiable",
+        "C": "impossable",
+        "D": "uneducated"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium",
+      "explanation": "\"impossable\" is wrongly spelt. The correct spelling is \"impossible\"."
+    },
+    {
+      "id": 36,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "illussion",
+        "B": "illusion",
+        "C": "unmindful",
+        "D": "cowardice"
+      },
+      "correct_answer": "A",
+      "difficulty": "Medium",
+      "explanation": "\"illussion\" is wrongly spelt. The correct spelling is \"illusion\"."
+    },
+    {
+      "id": 37,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "unintended",
+        "B": "necessity",
+        "C": "unimaginable",
+        "D": "unimaginabel"
+      },
+      "correct_answer": "D",
+      "difficulty": "Medium",
+      "explanation": "\"unimaginabel\" is wrongly spelt. The correct spelling is \"unimaginable\"."
+    },
+    {
+      "id": 38,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "childhood",
+        "B": "inginuity",
+        "C": "profitable",
+        "D": "ingenuity"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium",
+      "explanation": "\"inginuity\" is wrongly spelt. The correct spelling is \"ingenuity\"."
+    },
+    {
+      "id": 39,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "meaningless",
+        "B": "numerous",
+        "C": "prosporous",
+        "D": "prosperous"
+      },
+      "correct_answer": "C",
+      "difficulty": "Medium",
+      "explanation": "\"prosporous\" is wrongly spelt. The correct spelling is \"prosperous\"."
+    },
+    {
+      "id": 40,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "achievement",
+        "B": "achievemant",
+        "C": "international",
+        "D": "glorious"
+      },
+      "correct_answer": "B",
+      "difficulty": "Medium",
+      "explanation": "\"achievemant\" is wrongly spelt. The correct spelling is \"achievement\"."
+    },
+    {
+      "id": 41,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "correspondancee",
+        "B": "experience",
+        "C": "correspondence",
+        "D": "inauguration"
+      },
+      "correct_answer": "A",
+      "difficulty": "Difficult",
+      "explanation": "\"correspondancee\" is wrongly spelt. The correct spelling is \"correspondence\"."
+    },
+    {
+      "id": 42,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "unpredictable",
+        "B": "generosity",
+        "C": "independent",
+        "D": "generosety"
+      },
+      "correct_answer": "D",
+      "difficulty": "Difficult",
+      "explanation": "\"generosety\" is wrongly spelt. The correct spelling is \"generosity\"."
+    },
+    {
+      "id": 43,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "disappeared",
+        "B": "oppression",
+        "C": "unfortunately",
+        "D": "dissapeared"
+      },
+      "correct_answer": "D",
+      "difficulty": "Difficult",
+      "explanation": "\"dissapeared\" is wrongly spelt. The correct spelling is \"disappeared\"."
+    },
+    {
+      "id": 44,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "movemant",
+        "B": "sorrowful",
+        "C": "amiable",
+        "D": "movement"
+      },
+      "correct_answer": "A",
+      "difficulty": "Difficult",
+      "explanation": "\"movemant\" is wrongly spelt. The correct spelling is \"movement\"."
+    },
+    {
+      "id": 45,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "sadness",
+        "B": "impossible",
+        "C": "imposible",
+        "D": "illusion"
+      },
+      "correct_answer": "C",
+      "difficulty": "Difficult",
+      "explanation": "\"imposible\" is wrongly spelt. The correct spelling is \"impossible\"."
+    },
+    {
+      "id": 46,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "cowardice",
+        "B": "uneducatd",
+        "C": "unmindful",
+        "D": "uneducated"
+      },
+      "correct_answer": "B",
+      "difficulty": "Difficult",
+      "explanation": "\"uneducatd\" is wrongly spelt. The correct spelling is \"uneducated\"."
+    },
+    {
+      "id": 47,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "incorrigible",
+        "B": "necessity",
+        "C": "neccessity",
+        "D": "unintended"
+      },
+      "correct_answer": "C",
+      "difficulty": "Difficult",
+      "explanation": "\"neccessity\" is wrongly spelt. The correct spelling is \"necessity\"."
+    },
+    {
+      "id": 48,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "profitible",
+        "B": "profitable",
+        "C": "ingenuity",
+        "D": "prosperous"
+      },
+      "correct_answer": "A",
+      "difficulty": "Difficult",
+      "explanation": "\"profitible\" is wrongly spelt. The correct spelling is \"profitable\"."
+    },
+    {
+      "id": 49,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "numerius",
+        "B": "meaningless",
+        "C": "glorious",
+        "D": "numerous"
+      },
+      "correct_answer": "A",
+      "difficulty": "Difficult",
+      "explanation": "\"numerius\" is wrongly spelt. The correct spelling is \"numerous\"."
+    },
+    {
+      "id": 50,
+      "question": "Choose the wrongly spelt word.",
+      "options": {
+        "A": "achievment",
+        "B": "international",
+        "C": "achievement",
+        "D": "experience"
+      },
+      "correct_answer": "A",
+      "difficulty": "Difficult",
+      "explanation": "\"achievment\" is wrongly spelt. The correct spelling is \"achievement\"."
+    }
+  ]
+}

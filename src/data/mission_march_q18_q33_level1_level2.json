@@ -1,0 +1,1041 @@
+{
+  "title": "Mission March Practice — Q.18 to Q.33",
+  "branch": "Mission March Practice",
+  "source": "Mission March 2027 English Material for Action Plan PHASE-I (2).pdf",
+  "source_levels": [
+    "Level-1: Rising Star",
+    "Level-2: Shining Star"
+  ],
+  "scope": "Only Q.18–Q.33. Q.34 and Q.35–Q.37 are not included.",
+  "instructions": {
+    "answer_policy": "Include a direct answer for objective items and a model answer where the task requires sentence transformation or original sentence writing.",
+    "explanation_policy": "Add a short explanation only where the answer may be difficult or where a transformation rule is useful.",
+    "source_fidelity": "Keep source wording and options where they are available. Do not invent missing source data."
+  },
+  "categories": [
+    {
+      "q_no": 18,
+      "name": "Relative Clauses"
+    },
+    {
+      "q_no": 19,
+      "name": "Active to Passive Voice"
+    },
+    {
+      "q_no": 20,
+      "name": "Reported Speech"
+    },
+    {
+      "q_no": 21,
+      "name": "Prepositions"
+    },
+    {
+      "q_no": 22,
+      "name": "Editing"
+    },
+    {
+      "q_no": 23,
+      "name": "Articles"
+    },
+    {
+      "q_no": 24,
+      "name": "Repeated Action in the Past — Would / Used to"
+    },
+    {
+      "q_no": 25,
+      "name": "Noun Modifiers"
+    },
+    {
+      "q_no": 26,
+      "name": "Advice / Suggestions"
+    },
+    {
+      "q_no": 27,
+      "name": "Synonyms"
+    },
+    {
+      "q_no": 28,
+      "name": "Antonyms"
+    },
+    {
+      "q_no": 29,
+      "name": "Right Form of Words"
+    },
+    {
+      "q_no": 30,
+      "name": "Prefixes / Suffixes / Inflections"
+    },
+    {
+      "q_no": 31,
+      "name": "Wrong Spelling"
+    },
+    {
+      "q_no": 32,
+      "name": "Dictionary Skills"
+    },
+    {
+      "q_no": 33,
+      "name": "Phrasal Verbs & Idiomatic Expressions"
+    }
+  ],
+  "questions": [
+    {
+      "id": "MM18-L1-001",
+      "q_no": 18,
+      "level": "Level-1",
+      "type": "Relative Clauses",
+      "question": "He is Mr. Rajesh. His car was stolen. (whose)",
+      "answer": "He is Mr. Rajesh whose car was stolen."
+    },
+    {
+      "id": "MM18-L1-002",
+      "q_no": 18,
+      "level": "Level-1",
+      "type": "Relative Clauses",
+      "question": "Revathi studied in Kurnool. She is a doctor. (who)",
+      "answer": "Revathi, who studied in Kurnool, is a doctor."
+    },
+    {
+      "id": "MM18-L1-003",
+      "q_no": 18,
+      "level": "Level-1",
+      "type": "Relative Clauses",
+      "question": "We booked tickets for a movie. Those were cancelled. (which)",
+      "answer": "The tickets which we booked for a movie were cancelled."
+    },
+    {
+      "id": "MM18-L1-004",
+      "q_no": 18,
+      "level": "Level-1",
+      "type": "Relative Clauses",
+      "question": "She met most of the people. They were from the US. (who)",
+      "answer": "She met most of the people who were from the US."
+    },
+    {
+      "id": "MM18-L1-005",
+      "q_no": 18,
+      "level": "Level-1",
+      "type": "Relative Clauses",
+      "question": "I saw a girl. She was singing beautifully. (who)",
+      "answer": "I saw a girl who was singing beautifully."
+    },
+    {
+      "id": "MM18-L1-006",
+      "q_no": 18,
+      "level": "Level-1",
+      "type": "Relative Clauses",
+      "question": "This is Nirosha. I was praising her. (whom)",
+      "answer": "This is Nirosha whom I was praising."
+    },
+    {
+      "id": "MM18-L1-007",
+      "q_no": 18,
+      "level": "Level-1",
+      "type": "Relative Clauses",
+      "question": "The students were shouting. The teacher punished them. (whom)",
+      "answer": "The teacher punished the students whom she/he found shouting."
+    },
+    {
+      "id": "MM19-L1-001",
+      "q_no": 19,
+      "level": "Level-1",
+      "type": "Active to Passive Voice",
+      "question": "The police caught the thief yesterday.",
+      "answer": "The thief was caught by the police yesterday."
+    },
+    {
+      "id": "MM19-L1-002",
+      "q_no": 19,
+      "level": "Level-1",
+      "type": "Active to Passive Voice",
+      "question": "My grandmother told us an interesting story.",
+      "answer": "An interesting story was told to us by my grandmother."
+    },
+    {
+      "id": "MM19-L2-001",
+      "q_no": 19,
+      "level": "Level-2",
+      "type": "Active to Passive Voice",
+      "question": "Finish the project before Friday.",
+      "answer": "Let the project be finished before Friday."
+    },
+    {
+      "id": "MM19-L2-002",
+      "q_no": 19,
+      "level": "Level-2",
+      "type": "Active to Passive Voice",
+      "question": "Send me the report today.",
+      "answer": "Let the report be sent to me today."
+    },
+    {
+      "id": "MM19-L2-003",
+      "q_no": 19,
+      "level": "Level-2",
+      "type": "Active to Passive Voice",
+      "question": "Did the teacher explain the lesson?",
+      "answer": "Was the lesson explained by the teacher?"
+    },
+    {
+      "id": "MM19-L2-004",
+      "q_no": 19,
+      "level": "Level-2",
+      "type": "Active to Passive Voice",
+      "question": "Are you giving the book?",
+      "answer": "Is the book being given by you?"
+    },
+    {
+      "id": "MM19-L2-005",
+      "q_no": 19,
+      "level": "Level-2",
+      "type": "Active to Passive Voice",
+      "question": "Will he give the treat?",
+      "answer": "Will the treat be given by him?"
+    },
+    {
+      "id": "MM19-L2-006",
+      "q_no": 19,
+      "level": "Level-2",
+      "type": "Active to Passive Voice",
+      "question": "Why does he pay the fees?",
+      "answer": "Why are the fees paid by him?"
+    },
+    {
+      "id": "MM19-L2-007",
+      "q_no": 19,
+      "level": "Level-2",
+      "type": "Active to Passive Voice",
+      "question": "Can Sarvaani complete the work?",
+      "answer": "Can the work be completed by Sarvaani?"
+    },
+    {
+      "id": "MM20-L1-001",
+      "q_no": 20,
+      "level": "Level-1",
+      "type": "Reported Speech",
+      "question": "Lencho said to his wife, \"Now we're really going to get some water.\"",
+      "answer": "Lencho told his wife that they were really going to get some water then."
+    },
+    {
+      "id": "MM20-L1-002",
+      "q_no": 20,
+      "level": "Level-1",
+      "type": "Reported Speech",
+      "question": "The woman said to her boys, \"Come for dinner.\"",
+      "answer": "The woman told her boys to come for dinner."
+    },
+    {
+      "id": "MM20-L1-003",
+      "q_no": 20,
+      "level": "Level-1",
+      "type": "Reported Speech",
+      "question": "She said to her father, \"Naveena is trying to help me.\"",
+      "answer": "She told her father that Naveena was trying to help her."
+    },
+    {
+      "id": "MM20-L2-001",
+      "q_no": 20,
+      "level": "Level-2",
+      "type": "Reported Speech",
+      "question": "He said to the members of his family, \"We'll all go hungry this year.\"",
+      "answer": "He told the members of his family that they would all go hungry that year."
+    },
+    {
+      "id": "MM20-L2-002",
+      "q_no": 20,
+      "level": "Level-2",
+      "type": "Reported Speech",
+      "question": "The pilot said to the co-pilot, \"Can you hear me?\"",
+      "answer": "The pilot asked the co-pilot if he could hear him."
+    },
+    {
+      "id": "MM20-L2-003",
+      "q_no": 20,
+      "level": "Level-2",
+      "type": "Reported Speech",
+      "question": "Siri said, \"I can still recall the typical fragrance of these flowers.\"",
+      "answer": "Siri said that she could still recall the typical fragrance of those flowers."
+    },
+    {
+      "id": "MM20-L2-004",
+      "q_no": 20,
+      "level": "Level-2",
+      "type": "Reported Speech",
+      "question": "He said, \"I'll take the risk.\"",
+      "answer": "He said that he would take the risk."
+    },
+    {
+      "id": "MM20-L2-005",
+      "q_no": 20,
+      "level": "Level-2",
+      "type": "Reported Speech",
+      "question": "Amar said, \"I don't have a friend.\"",
+      "answer": "Amar said that he did not have a friend."
+    },
+    {
+      "id": "MM21-L1-001",
+      "q_no": 21,
+      "level": "Level-1",
+      "type": "Prepositions",
+      "question": "Our house is the only one ______ the entire valley. (in / on / at)",
+      "answer": "in"
+    },
+    {
+      "id": "MM21-L1-002",
+      "q_no": 21,
+      "level": "Level-1",
+      "type": "Prepositions",
+      "question": "Big drops of rain began to fall ______ the meal time. (during / since / for)",
+      "answer": "during"
+    },
+    {
+      "id": "MM21-L1-003",
+      "q_no": 21,
+      "level": "Level-1",
+      "type": "Prepositions",
+      "question": "Mithun put the letter ______ the envelope. (into / over / across)",
+      "answer": "into"
+    },
+    {
+      "id": "MM21-L2-001",
+      "q_no": 21,
+      "level": "Level-2",
+      "type": "Prepositions",
+      "question": "The climb _____ the Brahmagiri hills brings you ____ a panoramic view of the entire misty landscape of Coorg. (on / to / at) (of / in / into)",
+      "answer": "to; into"
+    },
+    {
+      "id": "MM21-L2-002",
+      "q_no": 21,
+      "level": "Level-2",
+      "type": "Prepositions",
+      "question": "The most laidback individuals become converts ___ the life of high-energy adventure ____ river rafting, canoeing, rappelling, rock climbing. (of / to / from) (for / with / of)",
+      "answer": "to; with"
+    },
+    {
+      "id": "MM21-L2-003",
+      "q_no": 21,
+      "level": "Level-2",
+      "type": "Prepositions",
+      "question": "Rajvir too was an ardent fan ____ detective stories. (off / of / at)",
+      "answer": "of"
+    },
+    {
+      "id": "MM21-L2-004",
+      "q_no": 21,
+      "level": "Level-2",
+      "type": "Prepositions",
+      "question": "There's the one ______ the Chinese emperor who always boiled water ______ drinking it. (about / onto / of) (after / before / above)",
+      "answer": "about; before"
+    },
+    {
+      "id": "MM21-L2-005",
+      "q_no": 21,
+      "level": "Level-2",
+      "type": "Prepositions",
+      "question": "The baker usually collected his bills ____ the end ____ the month. (on / at / in) (of / off / to)",
+      "answer": "at; of"
+    },
+    {
+      "id": "MM23-L1-001",
+      "q_no": 23,
+      "level": "Level-1",
+      "type": "Articles",
+      "question": "I saw ____ elephant at the zoo yesterday.",
+      "answer": "an"
+    },
+    {
+      "id": "MM23-L1-002",
+      "q_no": 23,
+      "level": "Level-1",
+      "type": "Articles",
+      "question": "Riya wants to become ____ engineer.",
+      "answer": "an"
+    },
+    {
+      "id": "MM23-L1-003",
+      "q_no": 23,
+      "level": "Level-1",
+      "type": "Articles",
+      "question": "We visited ____ Taj Mahal during our vacation.",
+      "answer": "the"
+    },
+    {
+      "id": "MM23-L1-004",
+      "q_no": 23,
+      "level": "Level-1",
+      "type": "Articles",
+      "question": "My father bought ____ new car last week.",
+      "answer": "a"
+    },
+    {
+      "id": "MM23-L2-001",
+      "q_no": 23,
+      "level": "Level-2",
+      "type": "Articles",
+      "question": "Ravi found ____ old map in ____ attic of his grandfather's house.",
+      "answer": "an; the"
+    },
+    {
+      "id": "MM23-L2-002",
+      "q_no": 23,
+      "level": "Level-2",
+      "type": "Articles",
+      "question": "We saw ____ eagle flying over ____ river.",
+      "answer": "an; the"
+    },
+    {
+      "id": "MM23-L2-003",
+      "q_no": 23,
+      "level": "Level-2",
+      "type": "Articles",
+      "question": "She wants to become ____ architect and work for ____ international company.",
+      "answer": "an; an"
+    },
+    {
+      "id": "MM23-L2-004",
+      "q_no": 23,
+      "level": "Level-2",
+      "type": "Articles",
+      "question": "There was ____ accident near ____ railway station this morning.",
+      "answer": "an; the"
+    },
+    {
+      "id": "MM23-L2-005",
+      "q_no": 23,
+      "level": "Level-2",
+      "type": "Articles",
+      "question": "My father bought ____ umbrella from ____ shop near the bus stand.",
+      "answer": "an; a"
+    },
+    {
+      "id": "MM24-L1-001",
+      "q_no": 24,
+      "level": "Level-1",
+      "type": "Repeated Action in the Past",
+      "question": "We baked fresh bread every weekend. But now we are purchasing.",
+      "answer": "We would bake fresh bread every weekend, but now we are purchasing it."
+    },
+    {
+      "id": "MM24-L1-002",
+      "q_no": 24,
+      "level": "Level-1",
+      "type": "Repeated Action in the Past",
+      "question": "We bought many bread bangles. But now they are not available.",
+      "answer": "We used to buy many bread bangles, but now they are not available."
+    },
+    {
+      "id": "MM24-L1-003",
+      "q_no": 24,
+      "level": "Level-1",
+      "type": "Repeated Action in the Past",
+      "question": "Our family cultivated Paddy. But now we are cultivating Maize.",
+      "answer": "Our family used to cultivate paddy, but now we are cultivating maize."
+    },
+    {
+      "id": "MM24-L2-001",
+      "q_no": 24,
+      "level": "Level-2",
+      "type": "Repeated Action in the Past",
+      "question": "He played for hours with a selection of toys.",
+      "answer": "He would play for hours with a selection of toys."
+    },
+    {
+      "id": "MM24-L2-002",
+      "q_no": 24,
+      "level": "Level-2",
+      "type": "Repeated Action in the Past",
+      "question": "Fifty years ago, very few people owned cars.",
+      "answer": "Fifty years ago, very few people used to own cars."
+    },
+    {
+      "id": "MM24-L2-003",
+      "q_no": 24,
+      "level": "Level-2",
+      "type": "Repeated Action in the Past",
+      "question": "Temmy followed me without a lead when I called his name.",
+      "answer": "Temmy would follow me without a lead when I called his name."
+    },
+    {
+      "id": "MM24-L2-004",
+      "q_no": 24,
+      "level": "Level-2",
+      "type": "Repeated Action in the Past",
+      "question": "On his way home, the otter tugged me to the primary school wall.",
+      "answer": "On his way home, the otter would tug me to the primary school wall."
+    },
+    {
+      "id": "MM24-L2-005",
+      "q_no": 24,
+      "level": "Level-2",
+      "type": "Repeated Action in the Past",
+      "question": "Till the 1980s, Trichi had very dirty streets.",
+      "answer": "Till the 1980s, Trichi used to have very dirty streets."
+    },
+    {
+      "id": "MM25-L2-001",
+      "q_no": 25,
+      "level": "Level-2",
+      "type": "Noun Modifiers",
+      "question": "The station is for buses. It was renovated last year.",
+      "answer": "The bus station was renovated last year."
+    },
+    {
+      "id": "MM25-L2-002",
+      "q_no": 25,
+      "level": "Level-2",
+      "type": "Noun Modifiers",
+      "question": "The team plays football. It won the championship.",
+      "answer": "The football team won the championship."
+    },
+    {
+      "id": "MM25-L2-003",
+      "q_no": 25,
+      "level": "Level-2",
+      "type": "Noun Modifiers",
+      "question": "The policy concerns the environment. It encourages recycling.",
+      "answer": "The environmental policy encourages recycling."
+    },
+    {
+      "id": "MM25-L2-004",
+      "q_no": 25,
+      "level": "Level-2",
+      "type": "Noun Modifiers",
+      "question": "The programme develops skills. It helps unemployed youth.",
+      "answer": "The skill-development programme helps unemployed youth."
+    },
+    {
+      "id": "MM25-L2-005",
+      "q_no": 25,
+      "level": "Level-2",
+      "type": "Noun Modifiers",
+      "question": "The research focuses on climate. It received international recognition.",
+      "answer": "The climate research received international recognition."
+    },
+    {
+      "id": "MM26-L1-001",
+      "q_no": 26,
+      "level": "Level-1",
+      "type": "Advice / Suggestions",
+      "question": "Your friend has a high fever. Advise him / her to see a doctor.",
+      "answer": "You should see a doctor."
+    },
+    {
+      "id": "MM26-L1-002",
+      "q_no": 26,
+      "level": "Level-1",
+      "type": "Advice / Suggestions",
+      "question": "Your brother is riding a bike without a helmet. Advise him to wear a helmet while riding a bike.",
+      "answer": "You should wear a helmet while riding a bike."
+    },
+    {
+      "id": "MM26-L2-001",
+      "q_no": 26,
+      "level": "Level-2",
+      "type": "Advice / Suggestions",
+      "question": "Your friend has a high fever. Advise him / her to see a doctor.",
+      "answer": "You should see a doctor."
+    },
+    {
+      "id": "MM26-L2-002",
+      "q_no": 26,
+      "level": "Level-2",
+      "type": "Advice / Suggestions",
+      "question": "Your brother is riding a bike without a helmet. Advise him to wear a helmet while riding a bike.",
+      "answer": "You should wear a helmet while riding a bike."
+    },
+    {
+      "id": "MM26-L2-003",
+      "q_no": 26,
+      "level": "Level-2",
+      "type": "Advice / Suggestions",
+      "question": "Your friend has a habit of arriving late for school. Advise him to be punctual.",
+      "answer": "You should be punctual and arrive at school on time."
+    },
+    {
+      "id": "MM26-L2-004",
+      "q_no": 26,
+      "level": "Level-2",
+      "type": "Advice / Suggestions",
+      "question": "Your classmate does not participate in classroom activities because of a lack of confidence. Advise her to take part actively.",
+      "answer": "You should take part actively in classroom activities and build your confidence."
+    },
+    {
+      "id": "MM26-L2-005",
+      "q_no": 26,
+      "level": "Level-2",
+      "type": "Advice / Suggestions",
+      "question": "Your younger sister stays awake late at night using her mobile phone. Advise her to maintain a healthy sleep routine.",
+      "answer": "You should stop using the mobile phone late at night and maintain a healthy sleep routine."
+    },
+    {
+      "id": "MM27-L1-001",
+      "q_no": 27,
+      "level": "Level-1",
+      "type": "Synonyms",
+      "question": "Valli was brave (a) enough to travel alone. She bought (b) a ticket with the money she had saved. She felt happy (c) throughout the journey. The bus moved fast (d) towards the town. Box: fearless, purchased, joyful, rapid, destination.",
+      "answer": "a) fearless  b) purchased  c) joyful  d) rapid"
+    },
+    {
+      "id": "MM27-L1-002",
+      "q_no": 27,
+      "level": "Level-1",
+      "type": "Synonyms",
+      "question": "Valli was eager (a) to travel by bus. She was a small (b) girl with great curiosity. She looked at the lovely (c) scenery through the window and looked (d) at the passengers with interest. Box: excited, tiny, beautiful, glanced, cheerful.",
+      "answer": "a) excited  b) tiny  c) beautiful  d) glanced"
+    },
+    {
+      "id": "MM27-L2-001",
+      "q_no": 27,
+      "level": "Level-2",
+      "type": "Synonyms",
+      "question": "Rajvir looked at the magnificent (a) tea gardens. Tea bushes extended (b) as far as the eye could see. The hills were densely (c) wooded. He confessed (d) that he had read a lot about tea. Box: attractive, thickly, excitedly, admitted, stretched.",
+      "answer": "a) attractive  b) stretched  c) thickly  d) admitted"
+    },
+    {
+      "id": "MM27-L2-002",
+      "q_no": 27,
+      "level": "Level-2",
+      "type": "Synonyms",
+      "question": "Rajvir was keen (a) to learn more about tea. He admired the beautiful landscape (b). A vendor called out (c) loudly, selling hot tea. Tea is a very famous (d) drink throughout the world. Box: liquid, eager, shouted, scenery, popular.",
+      "answer": "a) eager  b) scenery  c) shouted  d) popular"
+    },
+    {
+      "id": "MM27-L2-003",
+      "q_no": 27,
+      "level": "Level-2",
+      "type": "Synonyms",
+      "question": "All through the night, Lencho thought only of his one hope (a) ... at daybreak (b), he began (c) to write a letter which he himself would carry (d) to town and place in the mail. Box: expectation, dawn, started, carry, belief.",
+      "answer": "a) belief  b) dawn  c) started  d) carry"
+    },
+    {
+      "id": "MM27-L2-004",
+      "q_no": 27,
+      "level": "Level-2",
+      "type": "Synonyms",
+      "question": "We, who were outlaws (a) not so long ago, have today been given the rare (b) privilege to be host to the nations of the world on our own soil. We thank all of our distinguished (c) international guests for having come to take possession with the people of our country of what is, after all, a common victory (d) for justice, for peace, for human dignity. Box: criminals, uncommon, famous, triumph, respect.",
+      "answer": "a) criminals  b) uncommon  c) famous  d) triumph"
+    },
+    {
+      "id": "MM28-L1-001",
+      "q_no": 28,
+      "level": "Level-1",
+      "type": "Antonyms",
+      "question": "Valli was happy (a) as she boarded the bus. It looked new (b) and clean. She enjoyed the beautiful (c) scenery as the bus moved quickly (d) towards the town.",
+      "answer": "a) sad/unhappy  b) old  c) ugly/unattractive  d) slowly"
+    },
+    {
+      "id": "MM28-L1-002",
+      "q_no": 28,
+      "level": "Level-1",
+      "type": "Antonyms",
+      "question": "Valli travelled carefully (a) and enjoyed the journey. Buying the ticket was easy (b) because she had saved enough money. The bus was full (c) of passengers. After reaching the town, she started (d) her return journey.",
+      "answer": "a) carelessly  b) difficult  c) empty  d) stopped/ended"
+    },
+    {
+      "id": "MM28-L2-001",
+      "q_no": 28,
+      "level": "Level-2",
+      "type": "Antonyms",
+      "question": "The large (a) raindrops gave Lencho hope (b), but the hailstorm soon destroyed (c) his crops. Finally, he felt sad (d).",
+      "answer": "a) small  b) despair/hopelessness  c) protected/saved  d) happy"
+    },
+    {
+      "id": "MM28-L2-002",
+      "q_no": 28,
+      "level": "Level-2",
+      "type": "Antonyms",
+      "question": "The inauguration marked the beginning (a) of a new era. The people celebrated freedom (b) after years of oppression. Mandela wanted a peaceful (c) nation with equality (d).",
+      "answer": "a) end  b) slavery/bondage  c) violent  d) inequality"
+    },
+    {
+      "id": "MM28-L2-003",
+      "q_no": 28,
+      "level": "Level-2",
+      "type": "Antonyms",
+      "question": "The young seagull was afraid (a) to fly. His mother came near (b) him with a fish. Soon he flew upwards (c) and became confident (d).",
+      "answer": "a) brave  b) far  c) downwards  d) uncertain"
+    },
+    {
+      "id": "MM29-L1-001",
+      "q_no": 29,
+      "level": "Level-1",
+      "type": "Right Form of Words",
+      "question": "Valli watched the bus with great ________ (excite, excited, excitement). Her ________ (curious, curiosity, curiously) nature made her eager to travel.",
+      "answer": "excitement; curious"
+    },
+    {
+      "id": "MM29-L1-002",
+      "q_no": 29,
+      "level": "Level-1",
+      "type": "Right Form of Words",
+      "question": "Valli planned the journey very ________ (careful, carefully, care). Her ________ (determine, determination, determined) impressed everyone.",
+      "answer": "carefully; determination"
+    },
+    {
+      "id": "MM29-L1-003",
+      "q_no": 29,
+      "level": "Level-1",
+      "type": "Right Form of Words",
+      "question": "The conductor gave Valli a ________ (cheer, cheerful, cheerfully) smile and spoke to her with great ________ (kind, kindness, kindly).",
+      "answer": "cheerful; kindness"
+    },
+    {
+      "id": "MM29-L1-004",
+      "q_no": 29,
+      "level": "Level-1",
+      "type": "Right Form of Words",
+      "question": "The Buddha advised Kisa Gotami to accept death ________. (calm, calmly, calmness)",
+      "answer": "calmly"
+    },
+    {
+      "id": "MM29-L1-005",
+      "q_no": 29,
+      "level": "Level-1",
+      "type": "Right Form of Words",
+      "question": "Kisa Gotami finally gained ________ after listening to the Buddha's sermon. (understand, understanding, understood)",
+      "answer": "understanding"
+    },
+    {
+      "id": "MM29-L2-001",
+      "q_no": 29,
+      "level": "Level-2",
+      "type": "Right Form of Words",
+      "question": "The storm looked extremely ________ (danger, dangerous, dangerously). The pilot became ________ (worry, worried, worryingly) about his journey.",
+      "answer": "dangerous; worried"
+    },
+    {
+      "id": "MM29-L2-002",
+      "q_no": 29,
+      "level": "Level-2",
+      "type": "Right Form of Words",
+      "question": "The hailstorm completely ________ (destroy, destroyed, destruction) the crops. Lencho looked at his field with great ________ (sad, sadly, sadness).",
+      "answer": "destroyed; sadness"
+    },
+    {
+      "id": "MM30-L1-001",
+      "q_no": 30,
+      "level": "Level-1",
+      "type": "Prefixes & Suffixes",
+      "question": "The pilot was ________ certain of his direction in the storm. (un, dis)",
+      "answer": "uncertain"
+    },
+    {
+      "id": "MM30-L1-002",
+      "q_no": 30,
+      "level": "Level-1",
+      "type": "Prefixes & Suffixes",
+      "question": "The storm looked danger ________. (ous, ly)",
+      "answer": "dangerous"
+    },
+    {
+      "id": "MM30-L2-001",
+      "q_no": 30,
+      "level": "Level-2",
+      "type": "Prefixes & Suffixes",
+      "question": "i) The pilot was ________ certain of his direction in the storm. (un, dis)",
+      "answer": "uncertain"
+    },
+    {
+      "id": "MM30-L2-002",
+      "q_no": 30,
+      "level": "Level-2",
+      "type": "Prefixes & Suffixes",
+      "question": "ii) The storm looked danger ________. (ous, ly)",
+      "answer": "dangerous"
+    },
+    {
+      "id": "MM31-L1-001",
+      "q_no": 31,
+      "level": "Level-1",
+      "type": "Wrong Spelling",
+      "question": "recognised, brutalty, glimmer, extinguished",
+      "answer": "brutalty → brutality"
+    },
+    {
+      "id": "MM31-L1-002",
+      "q_no": 31,
+      "level": "Level-1",
+      "type": "Wrong Spelling",
+      "question": "humane, illusion, transitory, oppresser",
+      "answer": "opresser → oppressor"
+    },
+    {
+      "id": "MM31-L1-003",
+      "q_no": 31,
+      "level": "Level-1",
+      "type": "Wrong Spelling",
+      "question": "imposible, resolution, experiencing, wrinkling",
+      "answer": "imposible → impossible"
+    },
+    {
+      "id": "MM31-L1-004",
+      "q_no": 31,
+      "level": "Level-1",
+      "type": "Wrong Spelling",
+      "question": "aparthed, ceremonies, installation, autumn",
+      "answer": "aparthed → apartheid"
+    },
+    {
+      "id": "MM31-L1-005",
+      "q_no": 31,
+      "level": "Level-1",
+      "type": "Wrong Spelling",
+      "question": "fasinate, passengers, wistfully, overwhelm",
+      "answer": "fasinate → fascinate"
+    },
+    {
+      "id": "MM31-L2-001",
+      "q_no": 31,
+      "level": "Level-2",
+      "type": "Wrong Spelling",
+      "question": "desparate, ascending, herring, upbraiding",
+      "answer": "desparate → desperate"
+    },
+    {
+      "id": "MM31-L2-002",
+      "q_no": 31,
+      "level": "Level-2",
+      "type": "Wrong Spelling",
+      "question": "preening, oposite, swooped, exhausted",
+      "answer": "oposite → opposite"
+    },
+    {
+      "id": "MM31-L2-003",
+      "q_no": 31,
+      "level": "Level-2",
+      "type": "Wrong Spelling",
+      "question": "straight, screaming, floating, aroplane",
+      "answer": "aroplane → aeroplane"
+    },
+    {
+      "id": "MM31-L2-004",
+      "q_no": 31,
+      "level": "Level-2",
+      "type": "Wrong Spelling",
+      "question": "extingished, returned, impractical, plantations",
+      "answer": "extingished → extinguished"
+    },
+    {
+      "id": "MM31-L2-005",
+      "q_no": 31,
+      "level": "Level-2",
+      "type": "Wrong Spelling",
+      "question": "parshially, exclaimed, vertical, stretched",
+      "answer": "parshially → partially"
+    },
+    {
+      "id": "MM31-L2-006",
+      "q_no": 31,
+      "level": "Level-2",
+      "type": "Wrong Spelling",
+      "question": "invigaurating, settlement, landscape, excitedly",
+      "answer": "invigaurating → invigorating"
+    },
+    {
+      "id": "MM31-L2-007",
+      "q_no": 31,
+      "level": "Level-2",
+      "type": "Wrong Spelling",
+      "question": "fragrence, mischief, emptying, traditional",
+      "answer": "fragrence → fragrance"
+    },
+    {
+      "id": "MM33-L1-001",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Idiomatic Expression",
+      "question": "Use the idiomatic expression 'by heart' in a sentence of your own.",
+      "answer": "She learnt the poem by heart."
+    },
+    {
+      "id": "MM33-L1-002",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Idiomatic Expression",
+      "question": "Use the idiomatic expression 'time and again' in a sentence of your own.",
+      "answer": "He reminded me time and again to be careful."
+    },
+    {
+      "id": "MM33-L1-003",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Idiomatic Expression",
+      "question": "Use the idiomatic expression 'at last' in a sentence of your own.",
+      "answer": "At last, the bus arrived."
+    },
+    {
+      "id": "MM33-L1-004",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Idiomatic Expression",
+      "question": "Use the idiomatic expression 'free from' in a sentence of your own.",
+      "answer": "We want to live free from fear."
+    },
+    {
+      "id": "MM33-L1-005",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Idiomatic Expression",
+      "question": "Use 'make both ends meet' in a sentence of your own.",
+      "answer": "They work hard to make both ends meet."
+    },
+    {
+      "id": "MM33-L1-006",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Idiomatic Expression",
+      "question": "Use 'bolt from the blue' in a sentence of your own.",
+      "answer": "The sudden news came like a bolt from the blue."
+    },
+    {
+      "id": "MM33-L1-007",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Idiomatic Expression",
+      "question": "Use 'pushed to our limits' in a sentence of your own.",
+      "answer": "The difficult task pushed us to our limits."
+    },
+    {
+      "id": "MM33-L1-008",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Idiomatic Expression",
+      "question": "Use 'quaking in one's boots' in a sentence of your own.",
+      "answer": "The child was quaking in his boots before the speech."
+    },
+    {
+      "id": "MM33-L2-001",
+      "q_no": 33,
+      "level": "Level-2",
+      "type": "Matching",
+      "question": "Match: run forward; take a plunge; give up; get scared. Part B: become frightened; move towards the front; jump into something; stop trying.",
+      "answer": "run forward → move towards the front; take a plunge → jump into something; give up → stop trying; get scared → become frightened."
+    },
+    {
+      "id": "MM32-L2-001",
+      "q_no": 32,
+      "level": "Level-2",
+      "type": "Dictionary Skills",
+      "question": "Dictionary entry: Illusion — noun, countable/uncountable, a false idea or belief, especially about somebody or about a situation. What part of speech is the word 'illusion'?",
+      "answer": "Noun."
+    },
+    {
+      "id": "MM32-L2-002",
+      "q_no": 32,
+      "level": "Level-2",
+      "type": "Dictionary Skills",
+      "question": "How did the word 'illusion' find its way into Middle English?",
+      "answer": "Via Old French from Latin illusio(n), in the sense of 'deceiving, deception'."
+    },
+    {
+      "id": "MM32-L2-003",
+      "q_no": 32,
+      "level": "Level-2",
+      "type": "Dictionary Skills",
+      "question": "Dictionary entry: Quarter. What is the other name for 'quarter' in North American English?",
+      "answer": "Fourth."
+    },
+    {
+      "id": "MM32-L2-004",
+      "q_no": 32,
+      "level": "Level-2",
+      "type": "Dictionary Skills",
+      "question": "How much does a quarter equal in the US and Canada?",
+      "answer": "25 cents."
+    },
+    {
+      "id": "MM32-L2-005",
+      "q_no": 32,
+      "level": "Level-2",
+      "type": "Dictionary Skills",
+      "question": "According to the dictionary entry, what types of nouns should the determiner 'enough' be used before?",
+      "answer": "Plural or uncountable nouns."
+    },
+    {
+      "id": "MM32-L2-006",
+      "q_no": 32,
+      "level": "Level-2",
+      "type": "Dictionary Skills",
+      "question": "What is the synonym given for the word 'enough'?",
+      "answer": "Sufficient."
+    },
+    {
+      "id": "MM32-L2-007",
+      "q_no": 32,
+      "level": "Level-2",
+      "type": "Dictionary Skills",
+      "question": "According to the first definition of 'space', is it countable or uncountable when referring to the area outside Earth's atmosphere?",
+      "answer": "Uncountable."
+    },
+    {
+      "id": "MM32-L2-008",
+      "q_no": 32,
+      "level": "Level-2",
+      "type": "Dictionary Skills",
+      "question": "Based on the example sentence in the dictionary entry, who was the first woman in space?",
+      "answer": "Valentina Tereshkova."
+    },
+    {
+      "id": "MM33-L1-009",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Phrasal Verb / Expression",
+      "question": "Use 'Fly a Flag' in a sentence of your own.",
+      "answer": "The school flies a flag on Independence Day."
+    },
+    {
+      "id": "MM33-L1-010",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Phrasal Verb / Expression",
+      "question": "Use 'Fly into a rage' in a sentence of your own.",
+      "answer": "He flew into a rage when he heard the news."
+    },
+    {
+      "id": "MM33-L1-011",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Phrasal Verb / Expression",
+      "question": "Use 'Fly along' in a sentence of your own.",
+      "answer": "The cyclist flew along the road."
+    },
+    {
+      "id": "MM33-L1-012",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Phrasal Verb / Expression",
+      "question": "Use 'Fly high' in a sentence of your own.",
+      "answer": "Dream big and fly high."
+    },
+    {
+      "id": "MM33-L1-013",
+      "q_no": 33,
+      "level": "Level-1",
+      "type": "Phrasal Verb / Expression",
+      "question": "Use 'Fly in the coop' in a sentence of your own.",
+      "answer": "The birds flew into the coop before sunset."
+    },
+    {
+      "id": "MM22-L2-001",
+      "q_no": 22,
+      "level": "Level-2",
+      "type": "Editing",
+      "question": "Terroirs are assessed and careful standard operating procedures were (a) put in place (b) \"sapling to savouring\", which ensuring (c) healthier plants and sweeter cherries and eventually a far superiority (d) coffee aroma and flavour.",
+      "answer": "Source-dependent: the exact corrections must be entered against the four marked positions (a)–(d) from the original page. Do not hard-code guessed corrections.",
+      "answer_status": "source-dependent"
+    }
+  ],
+  "missing_or_source_dependent": [
+    {
+      "q_no": 22,
+      "name": "Editing",
+      "note": "Exact correction mapping depends on the original marked positions; one retrieved source item is included but its answer is deliberately not guessed."
+    }
+  ],
+  "question_count": 118,
+  "notes": [
+    "Q.32 dictionary entries were verified from the source: Illusion, Quarter, Enough and Space.",
+    "Q.33 additional Fly expressions were verified from the source.",
+    "Q.22 editing requires the exact marked-word layout; one source-dependent item is retained without a guessed answer."
+  ]
+}

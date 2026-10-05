@@ -1,0 +1,510 @@
+{
+  "section": "Creative Expressions",
+  "source": "Mission March 2027 English Material for Action Plan PHASE-I (2).pdf",
+  "marks": {
+    "question_35": 10,
+    "question_36": 10,
+    "question_37": 10
+  },
+  "classification": {
+    "35A": "Conversation",
+    "35B": "Diary Entry",
+    "36A": "Letter Writing",
+    "36B": "Speech",
+    "37A": "Description",
+    "37B": "Information Transfer"
+  },
+  "questions": [
+    {
+      "id": "35A-001",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "After Valli boards the bus for the first time, the conductor notices her excitement. Write a conversation between Valli and the conductor.",
+      "hints": [
+        "Welcoming Valli",
+        "Buying a ticket",
+        "Conductor calling her \"Madam\"",
+        "Valli's confidence",
+        "Enjoying the journey"
+      ],
+      "example_answer": "Valli: How much is the ticket to town?\nConductor: Thirty paise, Madam.\nValli: Here is the money. I have been waiting for this journey.\nConductor: You seem very excited, Madam.\nValli: Yes. I have always wanted to travel by this bus.\nConductor: Then enjoy the journey, but be careful.\nValli: Thank you. I will."
+    },
+    {
+      "id": "35A-002",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "Valli returns home after her memorable bus journey. Her friend is eager to know about her experience. Write a conversation between Valli and her friend.",
+      "hints": [
+        "Planning of the journey",
+        "Saving money",
+        "Beautiful sights",
+        "Dead cow on the road",
+        "Feelings after the journey"
+      ],
+      "example_answer": "Friend: Valli, how was your journey to town?\nValli: It was wonderful. I had planned it for many days.\nFriend: How did you save money for the ticket?\nValli: I saved every little coin I could.\nFriend: What did you see on the way?\nValli: I saw beautiful fields, trees and many people.\nFriend: Was there anything that upset you?\nValli: Yes. I saw a dead cow on the return journey.\nFriend: How did you feel then?\nValli: I became sad and quiet."
+    },
+    {
+      "id": "35A-003",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "The mother of the seagull tried very much to make her son courageous to fly. But he did not fly. Lastly, he tried and succeeded in flying. He had taken his first flight. Write a possible conversation between the mother and the father of the seagull in this context.",
+      "example_answer": "Mother: Did you see? Our son has finally flown.\nFather: Yes, I am very happy to see him succeed.\nMother: I was worried that he would never overcome his fear.\nFather: Your encouragement gave him courage.\nMother: He has learned that he can succeed when he tries.\nFather: Yes. His first flight will always be special."
+    },
+    {
+      "id": "35A-004",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "The pilot of a Dakota plane faced drastic conditions while flying from Paris. He reached home safely. He explained the total incidents to his wife. Write a possible conversation between the pilot and his wife in this context.",
+      "example_answer": "Wife: You are finally home. What happened during the flight?\nPilot: I faced a terrible storm and lost my radio and compass.\nWife: That sounds frightening. How did you find your way?\nPilot: A mysterious aeroplane appeared and guided me through the storm.\nWife: Were you able to land safely?\nPilot: Yes. I followed it and finally reached home.\nWife: I am relieved that you are safe.\nPilot: So am I. It was an unforgettable experience."
+    },
+    {
+      "id": "35A-005",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "You recently went on a trip to Coorg, where you explored scenic locations like the Brahmagiri Hills, Nisargadhama island, and the Tibetan Buddhist Settlement at Bylakuppe. You also walked through lush coffee plantations, spotted local wildlife, and participated in adventure sports like trekking, river rafting, canoeing, and rock rappelling. Write a dialogue (conversation) between you and your friend as you share your exciting travel experiences.",
+      "example_answer": "Friend: How was your trip to Coorg?\nYou: It was exciting. I visited the Brahmagiri Hills and Nisargadhama.\nFriend: Did you see the coffee plantations?\nYou: Yes, and I also saw some local wildlife.\nFriend: Did you try any adventure sports?\nYou: Yes. I enjoyed trekking and river rafting.\nFriend: What did you like most?\nYou: The natural beauty and the peaceful atmosphere of Coorg."
+    },
+    {
+      "id": "35A-006",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "As a local resident of Coorg (Kodagu), you are well-versed in your region's unique heritage. A tourist approaches you to learn more about the best places to visit nearby, the distinct traditions and culture of the Kodavus (Coorgis), and the historical theories regarding their Greek or Arabic descent. Write a dialogue (conversation) between you and the tourist that highlights the rich culture and hospitality of Coorg.",
+      "example_answer": "Tourist: What are the main attractions of Coorg?\nResident: You can visit the Brahmagiri Hills, coffee plantations and Nisargadhama.\nTourist: What is special about the people of Coorg?\nResident: The Kodavus are known for their traditions and hospitality.\nTourist: I have heard different theories about their origin.\nResident: Yes. The lesson mentions theories connecting them with Greek or Arabic descent.\nTourist: Thank you for explaining the culture.\nResident: You are welcome. I hope you enjoy your visit."
+    },
+    {
+      "id": "35A-007",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "Valli reaches home safely. Her mother asks where she had been. Write a conversation (8-10 exchanges) between Valli and her mother.",
+      "hints": [
+        "Mother's questions",
+        "Valli's clever replies",
+        "Curiosity about the outing",
+        "Importance of being careful",
+        "Promise to inform next time"
+      ],
+      "example_answer": "Mother: Valli, where have you been?\nValli: I went to town by bus, Mother.\nMother: You travelled alone without telling me?\nValli: I am sorry, Mother. I had planned the journey carefully.\nMother: Were you safe throughout the journey?\nValli: Yes. The conductor and passengers were kind.\nMother: You should always tell me before going out.\nValli: I understand, Mother. I will inform you next time."
+    },
+    {
+      "id": "35A-008",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "A passenger is surprised to see a young girl travelling alone. Write a conversation (8-10 exchanges) between the passenger and the conductor.",
+      "hints": [
+        "Passenger's concern",
+        "Conductor's observations",
+        "Valli's confidence",
+        "Buying her own ticket",
+        "Appreciation of her courage"
+      ],
+      "example_answer": "Passenger: Why is that young girl travelling alone?\nConductor: She bought her own ticket and is quite confident.\nPassenger: Is she really travelling without an adult?\nConductor: Yes. She planned the journey herself.\nPassenger: She seems very determined.\nConductor: She certainly is, but she should also be careful.\nPassenger: I admire her courage.\nConductor: Yes, her confidence is impressive."
+    },
+    {
+      "id": "35A-009",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "During the journey, an elderly woman tries to talk to Valli. Write a conversation (8-10 exchanges) between Valli and the elderly woman.",
+      "hints": [
+        "Greetings",
+        "Questions about travelling alone",
+        "Valli's confidence",
+        "Advice from the elderly woman",
+        "Friendly farewell"
+      ],
+      "example_answer": "Elderly Woman: Hello, child. Are you travelling alone?\nValli: Yes, I am going to town.\nElderly Woman: Aren't you afraid?\nValli: No. I have planned my journey carefully.\nElderly Woman: You should always be cautious while travelling.\nValli: Thank you for your advice.\nElderly Woman: Take care and have a safe journey.\nValli: Thank you. Goodbye."
+    },
+    {
+      "id": "35A-010",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "Imagine you were the pilot. After reaching home, you narrated your frightening experience of flying through the storm. Write a conversation between you and your wife.",
+      "example_answer": "Wife: You look tired. Was the flight difficult?\nPilot: Yes. I flew into a dangerous storm.\nWife: Were you frightened?\nPilot: I was, especially when I lost my radio and compass.\nWife: Then how did you reach home?\nPilot: Another aeroplane appeared and guided me.\nWife: I am thankful that you landed safely.\nPilot: I am thankful too."
+    },
+    {
+      "id": "35A-011",
+      "question_no": 35,
+      "part": "A",
+      "type": "Conversation",
+      "prompt": "Imagine you were the pilot. After landing safely, you contacted London Control to find out who had guided you through the storm. Write a conversation between you and the Air Traffic Controller.",
+      "example_answer": "Pilot: London Control, can you hear me?\nAir Traffic Controller: Yes. How can I help you?\nPilot: I reached home safely, but I want to know who guided me through the storm.\nController: What do you mean? No other aeroplane was flying with you.\nPilot: But I clearly saw another aeroplane and followed it.\nController: We had no record of another aircraft near you.\nPilot: Then the mystery remains unsolved."
+    },
+    {
+      "id": "35B-001",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "Imagine you are Valli. After returning home from your first bus journey, write a diary entry expressing your excitement, observations and feelings.",
+      "example_answer": "Date: ______\nDear Diary,\nToday I fulfilled my long-cherished wish of travelling by bus to the town. I was excited to see the road, fields and people from the bus. I felt proud that I had planned the journey myself. However, on the return journey I saw a dead cow on the road. It changed my mood and made me think about life. It was an unforgettable day."
+    },
+    {
+      "id": "35B-002",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "Imagine you are the bus conductor. Write a diary entry describing your experience of meeting Valli, her confidence and how she impressed you.",
+      "example_answer": "Date: ______\nDear Diary,\nToday I met a remarkable little girl named Valli on the bus. She was travelling alone and was very confident. She had saved money for the journey and knew exactly what she wanted. Her replies amused me, and I admired her determination. I hope she remains careful while enjoying her independence."
+    },
+    {
+      "id": "35B-003",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "Imagine you are Valli. The sight of the dead cow on the return journey changes your mood. Write a diary entry expressing your thoughts and emotions.",
+      "example_answer": "Date: ______\nDear Diary,\nThe return journey began happily, but everything changed when I saw the dead cow on the road. I remembered seeing the same lively animal earlier. Its lifeless body made me deeply sad. I became silent and lost my excitement. The sight taught me that life can change suddenly."
+    },
+    {
+      "id": "35B-004",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "You are the seagull who made the first flight. You are happy at your flight. You had a different experience in your flight. Write the diary entry of the day when you made your first flight and express your feelings before and after the flight.",
+      "example_answer": "Date: ______\nDear Diary,\nToday I made my first flight. At first I was frightened and lacked courage, but finally I took the plunge. When I flew over the sea, I saw the vast green water beneath me. I felt free and happy. My fear disappeared and I realised that I could fly after all. It was the most exciting day of my life."
+    },
+    {
+      "id": "35B-005",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "You recently visited Coorg and were mesmerized by its natural beauty. During your trip, you explored the Brahmagiri Hills, the island of Nisargadhama, the coffee plantations, and the dense rainforests. You also encountered various wild animals mentioned in the chapter and participated in thrilling adventure sports. Write a diary entry chronicling your travel experiences and the unique cultural and natural highlights of Coorg.",
+      "example_answer": "Date: ______\nDear Diary,\nMy visit to Coorg was unforgettable. I explored the Brahmagiri Hills, Nisargadhama, coffee plantations and rainforests. I saw wildlife and enjoyed adventure activities. The natural beauty of the place amazed me. I also learned about the unique culture and traditions of the people of Coorg. I returned with wonderful memories."
+    },
+    {
+      "id": "35B-006",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "You are Rajvir from the story Tea from Assam. You recently visited the lush tea estates of Assam and gathered fascinating insights about tea cultivation from Pranjol's father. Write a diary entry about the day of your visit to the Dhekiabari Tea Estate, capturing your awe and incorporating the specific details you learned about tea plantations, legends, and harvesting seasons.",
+      "example_answer": "Date: ______\nDear Diary,\nToday I visited the Dhekiabari Tea Estate with Pranjol. I was fascinated by the green tea gardens and the process of tea cultivation. I learned about the legends connected with tea and the seasons of harvesting. The experience increased my curiosity about tea and its history. I will remember this visit for a long time."
+    },
+    {
+      "id": "35B-007",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "Imagine you are Valli's mother. You later come to know that Valli travelled alone on a bus without informing you. Write a diary entry expressing your feelings, worries and hopes for your daughter.",
+      "example_answer": "Date: ______\nDear Diary,\nToday I came to know that Valli travelled alone by bus without telling me. I was worried because she is still young. At the same time, I am proud of her confidence and determination. I hope she understands the importance of informing elders before travelling. I want her to be independent but also careful."
+    },
+    {
+      "id": "35B-008",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "Imagine you are one of the passengers who travelled with Valli. Write a diary entry describing your observations about the little girl and what you learnt from her confidence and determination.",
+      "example_answer": "Date: ______\nDear Diary,\nToday I travelled with a little girl named Valli. I was surprised by her confidence and determination. She had planned her journey carefully and even bought her own ticket. Her courage impressed me. I learned that age does not always decide how determined a person can be. At the same time, children must remember to be safe."
+    },
+    {
+      "id": "35B-009",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "Imagine you were the young seagull. After your family encouraged you to fly and you finally overcame your fear, write a diary entry describing your experience and what you learned from it.",
+      "example_answer": "Date: ______\nDear Diary,\nToday I finally overcame my fear of flying. My family encouraged me, and I gathered courage to make my first flight. At first I was frightened, but once I flew, I felt free and joyful. I learned that fear can be overcome when we have courage and encouragement."
+    },
+    {
+      "id": "35B-010",
+      "question_no": 35,
+      "part": "B",
+      "type": "Diary Entry",
+      "prompt": "Imagine you were the young seagull. After successfully making your first flight, write a diary entry expressing your feelings, fears, and happiness.",
+      "example_answer": "Date: ______\nDear Diary,\nToday I made my first successful flight. I was afraid before I jumped, but once I began flying, I felt wonderful. The sea looked beautiful beneath me. I turned my beak and enjoyed the new experience. I am proud and happy that I conquered my fear."
+    },
+    {
+      "id": "36A-001",
+      "question_no": 36,
+      "part": "A",
+      "type": "Letter Writing",
+      "prompt": "You have read about the post office personnel who helped Lencho. Sometimes we also help others in their need. It may be in the form of cash or kind or service. Write a letter to your friend about the help you did to others, imagining your name is Varun, a resident of Vijayawada, and your friend's name is Kalyan, a resident of Guntur.",
+      "example_answer": "Dear Kalyan,\nI hope you are well. I want to tell you about a recent incident when I helped a person who was in need. I noticed that he was struggling and needed support, so I offered my help. It made me realise that even a small act of kindness can make a difference.\nI felt happy that I could be useful to someone. We should always help others whenever we can.\nYours lovingly,\nVarun"
+    },
+    {
+      "id": "36A-002",
+      "question_no": 36,
+      "part": "A",
+      "type": "Letter Writing",
+      "prompt": "Imagine that you are Lencho. After receiving only seventy pesos instead of the hundred pesos you had requested, you believe that some money has been taken before it reached you. You are disappointed but still have faith in God. Write a letter to your friend describing the destruction caused by the hailstorm, the money you received, your feelings about the missing amount, and your firm belief that God will help you.",
+      "example_answer": "Dear Friend,\nI am writing to tell you about the terrible hailstorm that destroyed our crops. I wrote to God asking for a hundred pesos, but I received only seventy pesos. I believe that some of the money was taken before the letter reached me. I was disappointed, but my faith in God remains strong. I believe that God will help me again.\nYours lovingly,\nLencho"
+    },
+    {
+      "id": "36A-003",
+      "question_no": 36,
+      "part": "A",
+      "type": "Letter Writing",
+      "prompt": "You have read about the post office personnel who helped Lencho. Sometimes we also help the others in their need. It may be in the form of cash or kind or service. Write a letter to your friend about the help you did to others.",
+      "example_answer": "Dear Friend,\nI recently helped someone who was in need. I offered support when the person was facing a difficult situation. The experience made me understand that kindness is valuable even when the help is small. I felt satisfied because I could make someone's situation a little easier.\nYours lovingly,\nVarun"
+    },
+    {
+      "id": "36B-001",
+      "question_no": 36,
+      "part": "B",
+      "type": "Speech",
+      "prompt": "God is none other than who helped you in your hard times. Many people experienced this in their lives. The same was also stated by many Saints and Great People. Prepare a script for a speech on helping the needy.",
+      "example_answer": "Good morning everyone,\nToday I would like to speak about helping the needy. People around us may need support in different forms. We can help through money, food, useful things, service or simply by offering our time. A small act of kindness can bring hope to someone who is struggling. Let us be sensitive to the needs of others and help whenever we can.\nThank you."
+    },
+    {
+      "id": "36B-002",
+      "question_no": 36,
+      "part": "B",
+      "type": "Speech",
+      "prompt": "On the occasion of International Day of Yoga, you have been asked to deliver a speech during the school assembly. Prepare a script for the speech including the details such as India being as the birth place of Yoga, the importance of incorporating Yoga into our daily routines, and its overall mental and physical benefits to our lives.",
+      "example_answer": "Good morning respected teachers and dear friends,\nToday we are observing the International Day of Yoga. Yoga originated in India and has become an important practice around the world. Regular yoga can be included in our daily routine. It helps us maintain physical fitness and encourages mental calmness and concentration. Let us make healthy habits a part of our everyday lives.\nThank you."
+    },
+    {
+      "id": "36B-003",
+      "question_no": 36,
+      "part": "B",
+      "type": "Speech",
+      "prompt": "Imagine you are the Postmaster. You are asked to deliver a speech on \"Kindness and Helping People in Need.\" Now write a speech on “Kindness and Helping People in Need” to deliver at your post office.",
+      "example_answer": "Respected guests and colleagues,\nToday I would like to speak about kindness and helping people in need. Every person may face difficulties at some point in life. A kind word, a helping hand or material support can give someone hope. We should not ignore people who need our assistance. Let us make kindness a regular part of our lives.\nThank you."
+    },
+    {
+      "id": "36B-004",
+      "question_no": 36,
+      "part": "B",
+      "type": "Speech",
+      "prompt": "In the lesson 'Nelson Mandela: Long Walk to Freedom', Nelson Mandela took the oath as the first democratically elected President of South Africa. The inauguration marked the end of apartheid and the beginning of a new era of freedom and equality. Prepare a speech based on the ideas from the lesson.",
+      "example_answer": "Respected teachers and dear citizens,\nToday marks a new beginning for our nation. Freedom and equality should be protected for every citizen. We must work together to overcome the divisions of the past and build a peaceful and democratic country. Let us respect one another and dedicate ourselves to the development of our nation.\nThank you."
+    },
+    {
+      "id": "37A-001",
+      "question_no": 37,
+      "part": "A",
+      "type": "Description",
+      "prompt": "You have read about Ausable, a spy who completely subverted Fowler's expectations regarding a secret agent's physical appearance. Based on your own ideas from movies, books, or popular culture, what do you think a typical secret agent should look and act like? Contrast your personal expectations of a spy with the character of Ausable.",
+      "example_answer": "A typical secret agent is often imagined as physically strong, stylish, mysterious and highly alert. Such a person may be expected to move confidently and use clever techniques to solve problems. Ausable is different from this popular image. He does not look like the typical spy, yet he uses intelligence and presence of mind to defeat Max. His character shows that appearance does not determine ability."
+    },
+    {
+      "id": "37A-002",
+      "question_no": 37,
+      "part": "A",
+      "type": "Description",
+      "prompt": "Horace Danby was completely outsmarted and deceived by a fellow thief—the lady in red. This betrayal left him bitter, leading him to firmly believe that thieves must always honor and respect one another, otherwise, the entire profession falls apart. Describe Horace's thoughts on the concept of \"honour among thieves\" in light of his experience.",
+      "example_answer": "Horace Danby believes that thieves should respect one another because they share the same profession. However, his experience with the lady in red changes his understanding. She deceives him and makes him open the safe for her. Horace is bitter because he trusted another thief who did not follow the principle he believed in. His experience makes him reflect on the idea of honour among thieves."
+    },
+    {
+      "id": "37A-003",
+      "question_no": 37,
+      "part": "A",
+      "type": "Description",
+      "prompt": "Anil trusted Harisingh though Harisingh was a thief. He allowed Harisingh to be with him in his room. When Anil got some money, he tucked the money under the mattress. Harisingh stole the money and went away. But for an unknown reason, Harisingh changed his mind and returned. Describe the thoughts of Harisingh when he was out with Anil's money.",
+      "example_answer": "When Harisingh went away with Anil's money, he probably felt excited at first because he had succeeded in stealing it. But as he thought about Anil's trust and kindness, his conscience troubled him. He realised that Anil treated him like a friend and trusted him completely. This made Harisingh reconsider his action and return the money. His thoughts show the beginning of a change in his character."
+    },
+    {
+      "id": "37A-004",
+      "question_no": 37,
+      "part": "A",
+      "type": "Description",
+      "prompt": "Mrs Pumphrey pampered her pet Tricki. Mrs. Pumphrey overfed him. Tricki fell ill because of her pampering. She had to leave the pet at the Veterinary Hospital inevitably even though she was worried about his food. Describe the feelings of Mrs Pumphrey about her pet when Tricki was in the hospital.",
+      "example_answer": "Mrs Pumphrey must have been deeply worried while Tricki was in the hospital. She loved him greatly and was used to pampering him with rich food and constant attention. She probably missed him and wondered whether he was getting enough food and care. Although she was anxious, Tricki's stay at the hospital was necessary for his health."
+    },
+    {
+      "id": "37A-005",
+      "question_no": 37,
+      "part": "A",
+      "type": "Description",
+      "prompt": "Bholi was a totally neglected child in her family, with no one caring for her health or well-being. She was initially sent to school by her father merely to satisfy his superior officer's command. However, her school teacher showed her immense affection and care, ultimately transforming Bholi into a courageous and independent girl. When Bholi boldly rejected the greedy, elderly bridegroom, the villagers scolded her, but her teacher watched on silently with deep satisfaction. Describe the teacher's feelings as she witnessed Bholi's display of immense courage and self-respect.",
+      "example_answer": "The teacher must have felt deeply satisfied and proud when Bholi rejected the greedy bridegroom. She had seen Bholi change from a neglected and hesitant child into a courageous young woman. The teacher's affection and encouragement had helped Bholi develop confidence. Seeing Bholi stand up for her self-respect would have given the teacher great happiness."
+    },
+    {
+      "id": "37A-006",
+      "question_no": 37,
+      "part": "A",
+      "type": "Description",
+      "prompt": "Imagine you are Fowler from the story The Midnight Visitor. You have just witnessed how brilliantly Ausable eliminated Max, and your initial disappointment has turned into deep admiration. Write a diary entry or a monologue describing your thoughts about Ausable. In your response, contrast your romanticized expectations of what a secret agent should look like with Ausable's actual physical appearance.",
+      "example_answer": "At first I expected a secret agent to be strong, smart-looking and impressive. Ausable was completely different from that image. He was not physically impressive, but he was extremely intelligent and calm. Watching him outsmart Max changed my opinion. I realised that a successful secret agent needs presence of mind and intelligence more than a glamorous appearance."
+    },
+    {
+      "id": "37A-007",
+      "question_no": 37,
+      "part": "A",
+      "type": "Description",
+      "prompt": "Imagine you are Max from The Midnight Visitor. When you entered the room, Ausable immediately began weaving a story to mislead you. Unaware of his deception, you grew increasingly tense, eventually believing his lie that a balcony existed just outside the window. Describe your internal thoughts, your growing anxiety, and your final moments of panic before you leaped.",
+      "example_answer": "Why did I believe Ausable's story about the balcony? I was already tense because I had entered the room with a weapon and was afraid of being caught. When Ausable calmly described the imaginary balcony, I believed him. My anxiety increased when I heard the knock at the door. Thinking the police were coming, I panicked and jumped towards the supposed balcony. Only then did I realise that I had been deceived."
+    },
+    {
+      "id": "37A-008",
+      "question_no": 37,
+      "part": "A",
+      "type": "Description",
+      "prompt": "Imagine you are the charming lady who deceived Horace Danby at Shotover Grange. Your goal was to steal the jewels without leaving a single fingerprint, and you capitalized on Horace's fear of being caught to make him do the dirty work for you. Describe how you manipulated your behavior to fool him, and detail the clever tactics you used to walk away with the fortune.",
+      "example_answer": "I remained calm and confident so that Horace would believe my story. I presented myself as the owner of the house and convinced him that I needed the jewels from the safe. I used his fear of being caught to make him do the work for me. By controlling the conversation and keeping him nervous, I managed to leave with the jewels without opening the safe myself."
+    },
+    {
+      "id": "37A-009",
+      "question_no": 37,
+      "part": "A",
+      "type": "Description",
+      "prompt": "Imagine you are the actual owner of Shotover Grange. Upon returning from London, you discover that your house has been robbed and you must now file a police report. Write your statement to the police describing the robbery. Include details about where your servants were that day, the value of the property lost, how the safe was opened, and whether you suspect anyone such as the elderly woman or the locked-up thief.",
+      "example_answer": "When I returned from London, I discovered that my house had been robbed. The safe had been opened and valuable property was missing. I would report the incident to the police and explain that my servants were away or elsewhere in the house at the time. I would describe the missing valuables and the condition of the safe. I would also tell the police about anyone who might have had an opportunity to enter the house."
+    },
+    {
+      "id": "37B-001",
+      "question_no": 37,
+      "part": "B",
+      "type": "Information Transfer",
+      "prompt": "Study the bar graph and write a paragraph based on the information given in it.",
+      "data_labels": [
+        "mango",
+        "apple",
+        "banana",
+        "orange",
+        "grapes"
+      ],
+      "example_answer": "Example response: The bar graph compares the quantities of mango, apple, banana, orange and grapes. The paragraph should identify the highest and lowest values and compare the quantities shown for the five fruits. Since the numerical values of the graph are not included in the extracted source text, the exact figures should be read from the graph before writing the final answer."
+    },
+    {
+      "id": "37B-002",
+      "question_no": 37,
+      "part": "B",
+      "type": "Information Transfer",
+      "prompt": "Study the pie-chart and write a paragraph based on the information given in it.",
+      "example_answer": "Example response: The pie chart should be described by identifying each category, comparing its share with the other categories, and mentioning the largest and smallest sections. The exact percentages are required from the original pie chart to write a factual final paragraph."
+    },
+    {
+      "id": "37B-003",
+      "question_no": 37,
+      "part": "B",
+      "type": "Information Transfer",
+      "prompt": "Study the following diagram / chart and write a paragraph based on the information given in it: Favourite Reading Materials of Students.",
+      "table": [
+        [
+          "Reading Material",
+          "Boys",
+          "Girls",
+          "Total"
+        ],
+        [
+          "Story Books",
+          18,
+          24,
+          42
+        ],
+        [
+          "Science Books",
+          20,
+          12,
+          32
+        ],
+        [
+          "Comics",
+          15,
+          10,
+          25
+        ],
+        [
+          "Newspapers",
+          12,
+          18,
+          30
+        ]
+      ],
+      "example_answer": "The table shows the favourite reading materials of students. Story books have a total of 42 readers, followed by science books with 32, newspapers with 30 and comics with 25. Girls show the highest preference for story books, while boys show the highest preference for science books. Overall, story books are the most popular among the listed reading materials."
+    },
+    {
+      "id": "37B-004",
+      "question_no": 37,
+      "part": "B",
+      "type": "Information Transfer",
+      "prompt": "Study the following diagram / chart and write a paragraph based on the information given in it: School Library Book Issue (One Week).",
+      "table": [
+        [
+          "Day",
+          "Fiction",
+          "Science",
+          "History"
+        ],
+        [
+          "Monday",
+          25,
+          18,
+          12
+        ],
+        [
+          "Tuesday",
+          22,
+          20,
+          15
+        ],
+        [
+          "Wednesday",
+          28,
+          17,
+          14
+        ],
+        [
+          "Thursday",
+          20,
+          22,
+          18
+        ],
+        [
+          "Friday",
+          30,
+          19,
+          16
+        ]
+      ],
+      "example_answer": "The table shows the number of fiction, science and history books issued from the school library during one week. Fiction books were issued most frequently on Friday with 30 books, while the lowest fiction figure was 20 on Thursday. Science book issues ranged from 17 to 22, and history books ranged from 12 to 18. Friday recorded the highest total issue among the three categories."
+    },
+    {
+      "id": "37B-005",
+      "question_no": 37,
+      "part": "B",
+      "type": "Information Transfer",
+      "prompt": "Study the following diagram / chart and write a paragraph based on the information given in it: Participation in School Clubs.",
+      "table": [
+        [
+          "Club",
+          "Boys",
+          "Girls",
+          "Total"
+        ],
+        [
+          "Eco Club",
+          18,
+          22,
+          40
+        ],
+        [
+          "Literary Club",
+          12,
+          25,
+          37
+        ],
+        [
+          "Science Club",
+          26,
+          16,
+          42
+        ],
+        [
+          "Music Club",
+          15,
+          20,
+          35
+        ],
+        [
+          "Sports Club",
+          30,
+          18,
+          48
+        ]
+      ],
+      "example_answer": "The table shows participation in five school clubs. The Sports Club has the highest total participation with 48 students, followed by the Science Club with 42 and the Eco Club with 40. The Music Club has 35 participants, while the Literary Club has 37. Boys have the highest participation in the Sports Club, whereas girls have the highest participation in the Literary Club."
+    }
+  ],
+  "notes": {
+    "example_answer_status": "Teacher-prepared model/example answers added by ChatGPT; they are not claimed to be answers printed in the source PDF.",
+    "source_fidelity": "Original source questions are preserved. Where a chart's numerical values were not present in the extracted source text, the example answer is a guidance/template rather than invented data.",
+    "app_use": "Each question can display the original task first and the example answer below it."
+  }
+}

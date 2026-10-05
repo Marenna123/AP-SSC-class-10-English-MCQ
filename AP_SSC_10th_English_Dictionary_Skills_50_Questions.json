@@ -1,0 +1,616 @@
+{
+  "title": "AP SSC Class 10 English – Dictionary Skills",
+  "class": "10",
+  "board": "Andhra Pradesh SSC",
+  "subject": "English",
+  "blueprintQuestion": "Q.32",
+  "marksPerEntry": 2,
+  "totalEntries": 25,
+  "totalQuestions": 50,
+  "syllabusReference": "Prose lessons in the prescribed Class 10 English textbook",
+  "note": "Each dictionary entry provides two one-mark questions. Practice follows the AP SSC Q.32 Dictionary Skills pattern.",
+  "entries": [
+    {
+      "id": 1,
+      "lesson": "A Letter to God",
+      "word": "crest",
+      "pronunciation": "/krest/",
+      "partOfSpeech": "noun",
+      "plural": "crests",
+      "meanings": [
+        "the top or highest part of something",
+        "the highest point of a wave"
+      ],
+      "example": "The storm clouds gathered over the crest of the hill.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "What is the part of speech of the word 'crest'?",
+          "answer": "Noun"
+        },
+        {
+          "id": "1b",
+          "question": "What does 'crest' mean in the context of a hill or wave?",
+          "answer": "The top or highest part of something."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lesson": "A Letter to God",
+      "word": "downpour",
+      "pronunciation": "/ˈdaʊnpɔːr/",
+      "partOfSpeech": "noun",
+      "plural": "downpours",
+      "meanings": [
+        "a sudden heavy fall of rain"
+      ],
+      "example": "The farmers ran for shelter during the downpour.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "What is the plural form of 'downpour'?",
+          "answer": "Downpours"
+        },
+        {
+          "id": "2b",
+          "question": "What does 'downpour' mean?",
+          "answer": "A sudden heavy fall of rain."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "lesson": "Nelson Mandela: Long Walk to Freedom",
+      "word": "oppression",
+      "pronunciation": "/əˈpreʃən/",
+      "partOfSpeech": "noun",
+      "plural": "oppressions",
+      "meanings": [
+        "cruel or unfair treatment of people by those in power"
+      ],
+      "example": "The people fought against oppression.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "What is the part of speech of 'oppression'?",
+          "answer": "Noun"
+        },
+        {
+          "id": "3b",
+          "question": "What does 'oppression' mean?",
+          "answer": "Cruel or unfair treatment of people by those in power."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "lesson": "Nelson Mandela: Long Walk to Freedom",
+      "word": "emancipation",
+      "pronunciation": "/ɪˌmænsɪˈpeɪʃən/",
+      "partOfSpeech": "noun",
+      "plural": "emancipations",
+      "meanings": [
+        "the act of setting someone free from control or restrictions"
+      ],
+      "example": "The movement worked for the emancipation of the oppressed.",
+      "questions": [
+        {
+          "id": "4a",
+          "question": "What does 'emancipation' mean?",
+          "answer": "The act of setting someone free from control or restrictions."
+        },
+        {
+          "id": "4b",
+          "question": "Which part of speech is 'emancipation'?",
+          "answer": "Noun"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "lesson": "Two Stories about Flying",
+      "word": "terrified",
+      "pronunciation": "/ˈterɪfaɪd/",
+      "partOfSpeech": "adjective",
+      "plural": "—",
+      "meanings": [
+        "extremely frightened"
+      ],
+      "example": "The young bird was terrified of flying alone.",
+      "questions": [
+        {
+          "id": "5a",
+          "question": "What is the part of speech of 'terrified'?",
+          "answer": "Adjective"
+        },
+        {
+          "id": "5b",
+          "question": "What does 'terrified' mean?",
+          "answer": "Extremely frightened."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "lesson": "Two Stories about Flying",
+      "word": "soared",
+      "pronunciation": "/sɔːrd/",
+      "partOfSpeech": "verb",
+      "plural": "—",
+      "meanings": [
+        "rose or flew high in the air"
+      ],
+      "example": "The bird soared above the valley.",
+      "questions": [
+        {
+          "id": "6a",
+          "question": "What is the base form of the verb 'soared'?",
+          "answer": "Soar"
+        },
+        {
+          "id": "6b",
+          "question": "What does 'soared' mean?",
+          "answer": "Rose or flew high in the air."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "lesson": "From the Diary of Anne Frank",
+      "word": "musings",
+      "pronunciation": "/ˈmjuːzɪŋz/",
+      "partOfSpeech": "noun",
+      "plural": "musings",
+      "meanings": [
+        "thoughts or reflections, especially when expressed at length"
+      ],
+      "example": "Her diary was filled with her private musings.",
+      "questions": [
+        {
+          "id": "7a",
+          "question": "What is the singular form of 'musings'?",
+          "answer": "Musing"
+        },
+        {
+          "id": "7b",
+          "question": "What does 'musings' mean?",
+          "answer": "Thoughts or reflections."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "lesson": "From the Diary of Anne Frank",
+      "word": "rambling",
+      "pronunciation": "/ˈræmblɪŋ/",
+      "partOfSpeech": "adjective",
+      "plural": "—",
+      "meanings": [
+        "long and confused or wandering from one subject to another"
+      ],
+      "example": "He gave a rambling explanation.",
+      "questions": [
+        {
+          "id": "8a",
+          "question": "Which part of speech is 'rambling' in the given dictionary entry?",
+          "answer": "Adjective"
+        },
+        {
+          "id": "8b",
+          "question": "What does 'rambling' mean?",
+          "answer": "Long and confused or wandering from one subject to another."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "lesson": "Glimpses of India – A Baker from Goa",
+      "word": "peddler",
+      "pronunciation": "/ˈpedlər/",
+      "partOfSpeech": "noun",
+      "plural": "peddlers",
+      "meanings": [
+        "a person who travels from place to place selling goods"
+      ],
+      "example": "A peddler came to the village with household goods.",
+      "questions": [
+        {
+          "id": "9a",
+          "question": "What is the plural form of 'peddler'?",
+          "answer": "Peddlers"
+        },
+        {
+          "id": "9b",
+          "question": "What does 'peddler' mean?",
+          "answer": "A person who travels from place to place selling goods."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "lesson": "Glimpses of India – A Baker from Goa",
+      "word": "loaves",
+      "pronunciation": "/ləʊvz/",
+      "partOfSpeech": "noun",
+      "plural": "loaves",
+      "meanings": [
+        "plural of loaf; quantities of bread baked in one piece"
+      ],
+      "example": "The baker carried fresh loaves of bread.",
+      "questions": [
+        {
+          "id": "10a",
+          "question": "What is the singular form of 'loaves'?",
+          "answer": "Loaf"
+        },
+        {
+          "id": "10b",
+          "question": "What does 'loaves' refer to?",
+          "answer": "Quantities of bread baked in one piece."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "lesson": "Glimpses of India – Coorg",
+      "word": "martial",
+      "pronunciation": "/ˈmɑːrʃəl/",
+      "partOfSpeech": "adjective",
+      "plural": "—",
+      "meanings": [
+        "relating to war, soldiers, or military life"
+      ],
+      "example": "The community has a strong martial tradition.",
+      "questions": [
+        {
+          "id": "11a",
+          "question": "What is the part of speech of 'martial'?",
+          "answer": "Adjective"
+        },
+        {
+          "id": "11b",
+          "question": "What does 'martial' mean?",
+          "answer": "Relating to war, soldiers, or military life."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "lesson": "Glimpses of India – Tea from Assam",
+      "word": "plantation",
+      "pronunciation": "/plænˈteɪʃən/",
+      "partOfSpeech": "noun",
+      "plural": "plantations",
+      "meanings": [
+        "a large area of land where crops are grown, especially commercially"
+      ],
+      "example": "The tea plantation stretched across the hills.",
+      "questions": [
+        {
+          "id": "12a",
+          "question": "What is the plural form of 'plantation'?",
+          "answer": "Plantations"
+        },
+        {
+          "id": "12b",
+          "question": "What does 'plantation' mean?",
+          "answer": "A large area of land where crops are grown, especially commercially."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "lesson": "Glimpses of India – Tea from Assam",
+      "word": "sprouted",
+      "pronunciation": "/ˈspraʊtɪd/",
+      "partOfSpeech": "verb",
+      "plural": "—",
+      "meanings": [
+        "began to grow or appear"
+      ],
+      "example": "New plants sprouted after the rain.",
+      "questions": [
+        {
+          "id": "13a",
+          "question": "What is the base form of 'sprouted'?",
+          "answer": "Sprout"
+        },
+        {
+          "id": "13b",
+          "question": "What does 'sprouted' mean?",
+          "answer": "Began to grow or appear."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "lesson": "Mijbil the Otter",
+      "word": "nuisance",
+      "pronunciation": "/ˈnjuːsəns/",
+      "partOfSpeech": "noun",
+      "plural": "nuisances",
+      "meanings": [
+        "a person or thing that causes trouble or annoyance"
+      ],
+      "example": "The noise became a nuisance to the neighbours.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "What is the plural form of 'nuisance'?",
+          "answer": "Nuisances"
+        },
+        {
+          "id": "14b",
+          "question": "What does 'nuisance' mean?",
+          "answer": "A person or thing that causes trouble or annoyance."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "lesson": "Mijbil the Otter",
+      "word": "whiplash",
+      "pronunciation": "/ˈwɪplæʃ/",
+      "partOfSpeech": "noun",
+      "plural": "whiplashes",
+      "meanings": [
+        "a sudden movement or effect resembling the cracking movement of a whip"
+      ],
+      "example": "The sudden turn caused a whiplash movement.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "Which part of speech is 'whiplash'?",
+          "answer": "Noun"
+        },
+        {
+          "id": "15b",
+          "question": "What is the plural form of 'whiplash'?",
+          "answer": "Whiplashes"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "lesson": "Madam Rides the Bus",
+      "word": "reprimand",
+      "pronunciation": "/ˈreprɪmɑːnd/",
+      "partOfSpeech": "verb",
+      "plural": "—",
+      "meanings": [
+        "to speak angrily to someone because they have done something wrong"
+      ],
+      "example": "The teacher reprimanded the student for being late.",
+      "questions": [
+        {
+          "id": "16a",
+          "question": "What does 'reprimand' mean?",
+          "answer": "To speak angrily to someone because they have done something wrong."
+        },
+        {
+          "id": "16b",
+          "question": "What is the part of speech of 'reprimand'?",
+          "answer": "Verb"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "lesson": "Madam Rides the Bus",
+      "word": "curiosity",
+      "pronunciation": "/ˌkjʊəriˈɒsəti/",
+      "partOfSpeech": "noun",
+      "plural": "curiosities",
+      "meanings": [
+        "a strong desire to know or learn something"
+      ],
+      "example": "Her curiosity made her ask many questions.",
+      "questions": [
+        {
+          "id": "17a",
+          "question": "What is the plural form of 'curiosity'?",
+          "answer": "Curiosities"
+        },
+        {
+          "id": "17b",
+          "question": "What does 'curiosity' mean?",
+          "answer": "A strong desire to know or learn something."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "lesson": "The Sermon at Benares",
+      "word": "bereaved",
+      "pronunciation": "/bɪˈriːvd/",
+      "partOfSpeech": "adjective",
+      "plural": "—",
+      "meanings": [
+        "having lost a close relative or friend through death"
+      ],
+      "example": "The bereaved family received support from their neighbours.",
+      "questions": [
+        {
+          "id": "18a",
+          "question": "What is the part of speech of 'bereaved'?",
+          "answer": "Adjective"
+        },
+        {
+          "id": "18b",
+          "question": "What does 'bereaved' mean?",
+          "answer": "Having lost a close relative or friend through death."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "lesson": "The Sermon at Benares",
+      "word": "grief",
+      "pronunciation": "/ɡriːf/",
+      "partOfSpeech": "noun",
+      "plural": "griefs",
+      "meanings": [
+        "deep sadness caused by the loss of someone or something"
+      ],
+      "example": "She was overcome with grief after the loss.",
+      "questions": [
+        {
+          "id": "19a",
+          "question": "Which part of speech is 'grief'?",
+          "answer": "Noun"
+        },
+        {
+          "id": "19b",
+          "question": "What does 'grief' mean?",
+          "answer": "Deep sadness caused by the loss of someone or something."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "lesson": "The Proposal",
+      "word": "pedigree",
+      "pronunciation": "/ˈpedɪɡriː/",
+      "partOfSpeech": "noun",
+      "plural": "pedigrees",
+      "meanings": [
+        "the recorded ancestry of a person or animal",
+        "a person's or thing's background or history"
+      ],
+      "example": "The horse has an excellent pedigree.",
+      "questions": [
+        {
+          "id": "20a",
+          "question": "What is the plural form of 'pedigree'?",
+          "answer": "Pedigrees"
+        },
+        {
+          "id": "20b",
+          "question": "What does 'pedigree' mean?",
+          "answer": "The recorded ancestry of a person or animal."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "lesson": "The Proposal",
+      "word": "meadows",
+      "pronunciation": "/ˈmedəʊz/",
+      "partOfSpeech": "noun",
+      "plural": "meadows",
+      "meanings": [
+        "fields of grass, especially used for grazing or hay"
+      ],
+      "example": "The cattle grazed in the green meadows.",
+      "questions": [
+        {
+          "id": "21a",
+          "question": "What is the singular form of 'meadows'?",
+          "answer": "Meadow"
+        },
+        {
+          "id": "21b",
+          "question": "What does 'meadows' mean?",
+          "answer": "Fields of grass, especially used for grazing or hay."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "lesson": "A Letter to God",
+      "word": "amiable",
+      "pronunciation": "/ˈeɪmiəbəl/",
+      "partOfSpeech": "adjective",
+      "plural": "—",
+      "meanings": [
+        "having a friendly and pleasant manner"
+      ],
+      "example": "The amiable man welcomed everyone warmly.",
+      "questions": [
+        {
+          "id": "22a",
+          "question": "What is the part of speech of 'amiable'?",
+          "answer": "Adjective"
+        },
+        {
+          "id": "22b",
+          "question": "What does 'amiable' mean?",
+          "answer": "Having a friendly and pleasant manner."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "lesson": "Nelson Mandela: Long Walk to Freedom",
+      "word": "inauguration",
+      "pronunciation": "/ɪˌnɔːɡjəˈreɪʃən/",
+      "partOfSpeech": "noun",
+      "plural": "inaugurations",
+      "meanings": [
+        "a ceremony marking the beginning of a new period or the taking of an official position"
+      ],
+      "example": "The inauguration ceremony was attended by many leaders.",
+      "questions": [
+        {
+          "id": "23a",
+          "question": "What is the plural form of 'inauguration'?",
+          "answer": "Inaugurations"
+        },
+        {
+          "id": "23b",
+          "question": "What does 'inauguration' mean?",
+          "answer": "A ceremony marking the beginning of a new period or the taking of an official position."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "lesson": "From the Diary of Anne Frank",
+      "word": "procrastination",
+      "pronunciation": "/prəˌkræstɪˈneɪʃən/",
+      "partOfSpeech": "noun",
+      "plural": "procrastinations",
+      "meanings": [
+        "the act of delaying something that must be done"
+      ],
+      "example": "Procrastination can prevent students from completing their work on time.",
+      "questions": [
+        {
+          "id": "24a",
+          "question": "What is the part of speech of 'procrastination'?",
+          "answer": "Noun"
+        },
+        {
+          "id": "24b",
+          "question": "What does 'procrastination' mean?",
+          "answer": "The act of delaying something that must be done."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "lesson": "Glimpses of India – Coorg",
+      "word": "hospitality",
+      "pronunciation": "/ˌhɒspɪˈtæləti/",
+      "partOfSpeech": "noun",
+      "plural": "hospitalities",
+      "meanings": [
+        "friendly and generous treatment of guests or visitors"
+      ],
+      "example": "The visitors were impressed by the hospitality of the people.",
+      "questions": [
+        {
+          "id": "25a",
+          "question": "Which part of speech is 'hospitality'?",
+          "answer": "Noun"
+        },
+        {
+          "id": "25b",
+          "question": "What does 'hospitality' mean?",
+          "answer": "Friendly and generous treatment of guests or visitors."
+        }
+      ]
+    }
+  ]
+}
