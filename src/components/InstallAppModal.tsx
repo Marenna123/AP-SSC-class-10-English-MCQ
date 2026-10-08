@@ -25,6 +25,13 @@ export const InstallAppModal: React.FC<InstallAppModalProps> = ({
   const [deferredPrompt, setDeferredPrompt] = useState<any>(null);
   const [isInstalled, setIsInstalled] = useState(false);
   const [copiedUrl, setCopiedUrl] = useState(false);
+  const [copiedPwaUrl, setCopiedPwaUrl] = useState(false);
+
+  // Reliable public URL for PWABuilder and APK packaging
+  const publicAppUrl = 'https://ais-pre-27iv2abmhmv4pd3lpwu7jl-558903178060.asia-southeast1.run.app';
+  const currentUrl = typeof window !== 'undefined' && window.location.origin.includes('run.app')
+    ? window.location.origin
+    : publicAppUrl;
 
   useEffect(() => {
     const handleBeforeInstallPrompt = (e: Event) => {
@@ -44,8 +51,6 @@ export const InstallAppModal: React.FC<InstallAppModalProps> = ({
   }, []);
 
   if (!isOpen) return null;
-
-  const currentUrl = typeof window !== 'undefined' ? window.location.href : '';
 
   const handleInstallClick = async () => {
     if (deferredPrompt) {
@@ -203,17 +208,17 @@ export const InstallAppModal: React.FC<InstallAppModalProps> = ({
           </div>
         </div>
 
-        {/* Method 2: Generate Signed APK via PWABuilder */}
+        {/* Method 2: Download APK directly from your GitHub Actions Build */}
         <div className="bg-slate-50 rounded-2xl p-4 border border-slate-200 space-y-3">
           <div className="flex items-center justify-between">
-            <span className="text-xs font-black uppercase tracking-wider text-slate-700 bg-slate-200 px-2.5 py-0.5 rounded-md border border-slate-300">
-              Method 2 • Download Standalone .APK File
+            <span className="text-xs font-black uppercase tracking-wider text-emerald-800 bg-emerald-100 px-2.5 py-0.5 rounded-md border border-emerald-300">
+              Method 2 • GitHub Actions APK Build (Updated &amp; Fixed)
             </span>
-            <span className="text-[11px] font-bold text-slate-500">Free Tool</span>
+            <span className="text-[11px] font-bold text-emerald-700">Native Gradle Build</span>
           </div>
 
-          <p className="text-xs text-slate-600 leading-relaxed font-medium">
-            Follow these exact 3 steps on <strong>PWABuilder</strong> to download your <code className="bg-slate-200 px-1 py-0.5 rounded text-indigo-700 font-bold">.apk</code> package:
+          <p className="text-xs text-slate-700 leading-relaxed font-medium">
+            The GitHub Actions workflow has been updated with the resolved Capacitor configuration and pre-built Android files.
           </p>
 
           <ol className="space-y-2 text-xs text-slate-700 bg-white p-3 rounded-xl border border-slate-200">
@@ -222,7 +227,7 @@ export const InstallAppModal: React.FC<InstallAppModalProps> = ({
                 1
               </span>
               <span>
-                Click <strong>"Open PWABuilder"</strong> below (your app URL will be loaded automatically).
+                Go to your GitHub Actions tab: <strong>Build Android APK</strong>.
               </span>
             </li>
             <li className="flex items-start gap-2">
@@ -230,7 +235,7 @@ export const InstallAppModal: React.FC<InstallAppModalProps> = ({
                 2
               </span>
               <span>
-                Click the large purple button labeled <strong>"Package for Stores"</strong> (or <strong>"Package"</strong>) in the top-right corner.
+                Click <strong>"Run workflow"</strong> (or push the latest changes) to start a fresh build.
               </span>
             </li>
             <li className="flex items-start gap-2">
@@ -238,20 +243,45 @@ export const InstallAppModal: React.FC<InstallAppModalProps> = ({
                 3
               </span>
               <span>
-                Under the <strong>Google Play / Android</strong> card, click <strong>"Generate Package"</strong> &rarr; <strong>"Download"</strong> to get your standalone <code className="font-bold text-emerald-700">.apk</code>!
+                Once completed, download <strong>AP-SSC-English-MCQ.apk</strong> from the <strong>Releases</strong> or <strong>Artifacts</strong> section!
               </span>
             </li>
           </ol>
 
-          <a
-            href={`https://www.pwabuilder.com/?url=${encodeURIComponent(currentUrl)}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="w-full py-2.5 px-4 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white font-extrabold text-xs transition-all flex items-center justify-center gap-2 shadow-sm cursor-pointer"
-          >
-            <span>Open PWABuilder for this App URL</span>
-            <ExternalLink className="w-3.5 h-3.5" />
-          </a>
+          <div className="flex flex-col sm:flex-row gap-2 pt-1">
+            <a
+              href="https://github.com/Marenna123/AP-SSC-class-10-English-MCQ/actions"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 py-2.5 px-4 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-extrabold text-xs transition-all flex items-center justify-center gap-2 shadow-sm cursor-pointer"
+            >
+              <span>GitHub Actions Runs</span>
+              <ExternalLink className="w-3.5 h-3.5" />
+            </a>
+            <a
+              href="https://github.com/Marenna123/AP-SSC-class-10-English-MCQ/releases"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-extrabold text-xs transition-all flex items-center justify-center gap-2 shadow-sm cursor-pointer"
+            >
+              <Download className="w-3.5 h-3.5" />
+              <span>GitHub Releases (Direct APK)</span>
+            </a>
+          </div>
+        </div>
+
+        {/* Method 3: PWABuilder Note */}
+        <div className="bg-slate-50 rounded-2xl p-4 border border-slate-200 space-y-3">
+          <div className="flex items-center justify-between">
+            <span className="text-xs font-black uppercase tracking-wider text-slate-700 bg-slate-200 px-2.5 py-0.5 rounded-md border border-slate-300">
+              Method 3 • PWABuilder Diagnostic Note
+            </span>
+            <span className="text-[11px] font-bold text-amber-600">Bot Restricted</span>
+          </div>
+
+          <p className="text-xs text-slate-600 leading-relaxed">
+            <strong>Why PWABuilder gave an error:</strong> PWABuilder's cloud server is an external crawler that cannot pass the Google Cloud preview security cookie check on <code>.run.app</code> domains. Use <strong>Method 1 (Instant Chrome install)</strong> on your phone or <strong>Method 2 (GitHub Actions APK)</strong> for guaranteed native installation.
+          </p>
         </div>
 
         {/* App Features Reminder */}

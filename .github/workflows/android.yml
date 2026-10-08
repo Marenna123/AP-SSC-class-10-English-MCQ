@@ -5,6 +5,9 @@ on:
     branches: [ main, master ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-apk:
     name: Build Android APK
@@ -18,6 +21,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'
 
       - name: Setup Java JDK 17
         uses: actions/setup-java@v4
@@ -25,8 +29,9 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Setup Android SDK
-        uses: android-actions/setup-android@v3
+      - name: Accept Android SDK Licenses
+        run: |
+          yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager --licenses || true
 
       - name: Install Dependencies
         run: npm install --legacy-peer-deps
@@ -34,28 +39,42 @@ jobs:
       - name: Build Web Application
         run: npm run build
 
-      - name: Setup Capacitor and Android Platform
+      - name: Sync Capacitor Android
         run: |
-          npm install --save @capacitor/core @capacitor/android
-          npm install --save-dev @capacitor/cli
-          cat << 'EOF' > capacitor.config.json
-          {
-            "appId": "com.apssc.englishmcq",
-            "appName": "AP SSC English",
-            "webDir": "dist"
-          }
-          EOF
-          npx cap add android
           npx cap sync android
 
       - name: Build Debug APK
         run: |
           cd android
           chmod +x gradlew
-          ./gradlew assembleDebug
+          ./gradlew assembleDebug --no-daemon
+
+      - name: Prepare APK artifact
+        run: |
+          cp android/app/build/outputs/apk/debug/app-debug.apk AP-SSC-English-MCQ.apk
 
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
         with:
           name: AP-SSC-English-MCQ-Android-APK
-          path: android/app/build/outputs/apk/debug/app-debug.apk
+          path: AP-SSC-English-MCQ.apk
+          retention-days: 30
+
+      - name: Create or Update GitHub Release with APK
+        uses: softprops/action-gh-release@v2
+        if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
+        with:
+          tag_name: latest
+          name: "AP SSC English MCQ - Latest Android APK"
+          body: |
+            ### 📱 Download Android APK
+            Official AP SSC Class 10 English MCQ Practice App for Android.
+
+            - **Direct Download:** Click `AP-SSC-English-MCQ.apk` below to download directly to your Android device.
+            - **Installation:** Open the downloaded `.apk` file on your phone and tap **Install**.
+          draft: false
+          prerelease: false
+          files: AP-SSC-English-MCQ.apk
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
