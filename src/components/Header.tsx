@@ -1,10 +1,11 @@
 import React from 'react';
-import { BookOpen, Search, Bookmark, Sparkles, ShieldCheck } from 'lucide-react';
+import { BookOpen, Search, Bookmark, Sparkles, ShieldCheck, Smartphone } from 'lucide-react';
 
 interface HeaderProps {
   onOpenSearch: () => void;
   onOpenBookmarks: () => void;
   onOpenAdmin: () => void;
+  onOpenInstall?: () => void;
   bookmarkCount: number;
 }
 
@@ -12,6 +13,7 @@ export const Header: React.FC<HeaderProps> = ({
   onOpenSearch,
   onOpenBookmarks,
   onOpenAdmin,
+  onOpenInstall,
   bookmarkCount,
 }) => {
   return (
@@ -63,6 +65,18 @@ export const Header: React.FC<HeaderProps> = ({
               </span>
             )}
           </button>
+
+          {onOpenInstall && (
+            <button
+              id="header-install-btn"
+              onClick={onOpenInstall}
+              className="px-2.5 py-1.5 rounded-lg text-emerald-800 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 transition-all text-xs font-bold flex items-center gap-1.5 shadow-2xs active:scale-98 cursor-pointer"
+              title="Install App on Android Phone"
+            >
+              <Smartphone className="w-4 h-4 text-emerald-600 shrink-0" />
+              <span className="hidden sm:inline">Install App</span>
+            </button>
+          )}
 
           <button
             id="header-admin-btn"

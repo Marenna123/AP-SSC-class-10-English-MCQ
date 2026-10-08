@@ -8,6 +8,7 @@ import { ProgressView } from './components/ProgressView';
 import { ProfileView } from './components/ProfileView';
 import { AdminModal } from './components/AdminModal';
 import { SearchModal } from './components/SearchModal';
+import { InstallAppModal } from './components/InstallAppModal';
 import { ActiveLessonSession } from './components/ActiveLessonSession';
 import {
   ActiveNavTab,
@@ -45,6 +46,7 @@ export default function App() {
   // Modals
   const [isAdminOpen, setIsAdminOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
+  const [isInstallOpen, setIsInstallOpen] = useState(false);
 
   // Active Lesson Session State
   const [activeSession, setActiveSession] = useState<{
@@ -218,6 +220,7 @@ export default function App() {
           setActiveTab('progress');
         }}
         onOpenAdmin={() => setIsAdminOpen(true)}
+        onOpenInstall={() => setIsInstallOpen(true)}
         bookmarkCount={stats.bookmarkedCount}
       />
 
@@ -301,6 +304,7 @@ export default function App() {
                   setProfile(updated);
                 }}
                 onOpenAdmin={() => setIsAdminOpen(true)}
+                onOpenInstall={() => setIsInstallOpen(true)}
                 onResetProgress={handleResetProgress}
               />
             )}
@@ -334,6 +338,12 @@ export default function App() {
         onClose={() => setIsSearchOpen(false)}
         questions={questions}
         onSelectQuestion={handleSelectSearchResult}
+      />
+
+      {/* Install on Android Phone Modal */}
+      <InstallAppModal
+        isOpen={isInstallOpen}
+        onClose={() => setIsInstallOpen(false)}
       />
     </div>
   );

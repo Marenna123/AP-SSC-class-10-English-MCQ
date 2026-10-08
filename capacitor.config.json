@@ -1,0 +1,8 @@
+{
+  "appId": "com.apssc.englishmcq",
+  "appName": "AP SSC English",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

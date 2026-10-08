@@ -8,7 +8,6 @@ const STORAGE_KEYS = {
   BOOKMARKS: 'ap_ssc_bookmarks_v2',
   TEST_RESULTS: 'ap_ssc_test_results_v2',
   PROFILE: 'ap_ssc_profile_v2',
-  SUPABASE_CONFIG: 'ap_ssc_supabase_config_v1',
 };
 
 const DEFAULT_PROFILE: StudentProfile = {

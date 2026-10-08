@@ -1,14 +1,14 @@
 import React, { useState } from 'react';
-import { User, Award, CheckCircle2, ShieldCheck, Database, RefreshCw, Edit2, Save, ExternalLink } from 'lucide-react';
+import { User, Award, ShieldCheck, RefreshCw, Edit2, Save, ExternalLink, Smartphone } from 'lucide-react';
 import { StudentProfile } from '../types';
 import { OverallStats } from '../lib/storage';
-import { getSupabaseConfig, saveSupabaseConfig } from '../lib/supabase';
 
 interface ProfileViewProps {
   profile: StudentProfile;
   stats: OverallStats;
   onUpdateProfile: (updates: Partial<StudentProfile>) => void;
   onOpenAdmin: () => void;
+  onOpenInstall?: () => void;
   onResetProgress: () => void;
 }
 
@@ -17,32 +17,18 @@ export const ProfileView: React.FC<ProfileViewProps> = ({
   stats,
   onUpdateProfile,
   onOpenAdmin,
+  onOpenInstall,
   onResetProgress,
 }) => {
   const [isEditing, setIsEditing] = useState(false);
   const [editName, setEditName] = useState(profile.name);
   const [editSchool, setEditSchool] = useState(profile.school || '');
 
-  // Supabase connection state
-  const [supabaseConfig, setSupabaseConfig] = useState(getSupabaseConfig());
-  const [showDbModal, setShowDbModal] = useState(false);
-  const [dbUrl, setDbUrl] = useState(supabaseConfig.url);
-  const [dbKey, setDbKey] = useState(supabaseConfig.anonKey);
-  const [dbSavedMessage, setDbSavedMessage] = useState('');
-
   const handleSaveProfile = () => {
     if (editName.trim()) {
       onUpdateProfile({ name: editName.trim(), school: editSchool.trim() });
       setIsEditing(false);
     }
-  };
-
-  const handleSaveSupabase = (e: React.FormEvent) => {
-    e.preventDefault();
-    const updated = saveSupabaseConfig({ url: dbUrl, anonKey: dbKey });
-    setSupabaseConfig(updated);
-    setDbSavedMessage('Supabase settings updated successfully!');
-    setTimeout(() => setDbSavedMessage(''), 3000);
   };
 
   return (
@@ -159,92 +145,30 @@ export const ProfileView: React.FC<ProfileViewProps> = ({
         </div>
       </div>
 
-      {/* Cloud & Supabase PostgreSQL Integration Section */}
-      <div className="bg-white rounded-2xl border border-slate-200 p-4 sm:p-5 shadow-xs">
-        <div className="flex items-start justify-between gap-3 mb-2">
-          <div className="flex items-center gap-2">
-            <div className="p-2 bg-emerald-50 text-emerald-700 rounded-xl">
-              <Database className="w-5 h-5" />
-            </div>
-            <div>
-              <h3 className="font-extrabold text-slate-900 text-sm sm:text-base font-['Outfit',sans-serif]">
-                Supabase PostgreSQL Database
-              </h3>
-              <p className="text-xs text-slate-500">
-                {supabaseConfig.isConnected
-                  ? 'Connected to your Supabase project'
-                  : 'Operating in high-speed offline-first mode with full persistent storage'}
-              </p>
-            </div>
+      {/* Android Phone App Card */}
+      <div className="bg-white rounded-2xl border border-slate-200 p-4 sm:p-5 shadow-xs flex items-center justify-between gap-3">
+        <div className="flex items-center gap-2.5">
+          <div className="p-2 bg-emerald-50 text-emerald-600 rounded-xl">
+            <Smartphone className="w-5 h-5" />
           </div>
-
-          <span
-            className={`px-2 py-0.5 rounded-full text-[11px] font-bold ${
-              supabaseConfig.isConnected
-                ? 'bg-emerald-100 text-emerald-800'
-                : 'bg-slate-100 text-slate-600'
-            }`}
-          >
-            {supabaseConfig.isConnected ? 'Connected' : 'Local Active'}
-          </span>
+          <div>
+            <h4 className="font-extrabold text-slate-900 text-sm sm:text-base font-['Outfit',sans-serif]">
+              Install on Android Phone
+            </h4>
+            <p className="text-xs text-slate-500">
+              Instant WebAPK or standalone APK package.
+            </p>
+          </div>
         </div>
 
-        <div className="flex items-center gap-2 mt-3 flex-wrap">
+        {onOpenInstall && (
           <button
-            id="configure-supabase-btn"
-            onClick={() => setShowDbModal(!showDbModal)}
-            className="px-3 py-1.5 rounded-lg bg-indigo-50 hover:bg-indigo-100 text-indigo-700 font-bold text-xs transition-colors"
+            id="profile-open-install-btn"
+            onClick={onOpenInstall}
+            className="px-3.5 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs transition-colors shadow-xs shrink-0 cursor-pointer flex items-center gap-1.5"
           >
-            {showDbModal ? 'Hide Config' : 'Configure Supabase Keys'}
+            <span>Install / APK</span>
           </button>
-        </div>
-
-        {showDbModal && (
-          <form onSubmit={handleSaveSupabase} className="mt-4 pt-3 border-t border-slate-100 space-y-3">
-            <div>
-              <label className="text-xs font-bold text-slate-700 block mb-1">
-                Supabase Project URL
-              </label>
-              <input
-                type="url"
-                placeholder="https://your-project.supabase.co"
-                value={dbUrl}
-                onChange={(e) => setDbUrl(e.target.value)}
-                className="w-full text-xs border border-slate-200 rounded-lg p-2 focus:ring-2 focus:ring-indigo-500"
-              />
-            </div>
-            <div>
-              <label className="text-xs font-bold text-slate-700 block mb-1">
-                Supabase Anon / Public Key
-              </label>
-              <input
-                type="password"
-                placeholder="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
-                value={dbKey}
-                onChange={(e) => setDbKey(e.target.value)}
-                className="w-full text-xs border border-slate-200 rounded-lg p-2 focus:ring-2 focus:ring-indigo-500"
-              />
-            </div>
-
-            {dbSavedMessage && (
-              <div className="text-xs font-bold text-emerald-600 flex items-center gap-1">
-                <CheckCircle2 className="w-3.5 h-3.5" />
-                {dbSavedMessage}
-              </div>
-            )}
-
-            <div className="flex items-center justify-between pt-1">
-              <span className="text-[11px] text-slate-400">
-                SQL schema is saved in <code className="text-slate-600">supabase_schema.sql</code>
-              </span>
-              <button
-                type="submit"
-                className="px-3.5 py-1.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold rounded-lg transition-colors shadow-xs"
-              >
-                Save Keys
-              </button>
-            </div>
-          </form>
         )}
       </div>
 
