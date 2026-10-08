@@ -27,11 +27,12 @@ export const InstallAppModal: React.FC<InstallAppModalProps> = ({
   const [copiedUrl, setCopiedUrl] = useState(false);
   const [copiedPwaUrl, setCopiedPwaUrl] = useState(false);
 
-  // Reliable public URL for PWABuilder and APK packaging
+  // Production public URL deployed via GitHub Pages (has zero cookie checks or login walls)
+  const githubPagesUrl = 'https://marenna123.github.io/AP-SSC-class-10-English-MCQ/';
   const publicAppUrl = 'https://ais-pre-27iv2abmhmv4pd3lpwu7jl-558903178060.asia-southeast1.run.app';
-  const currentUrl = typeof window !== 'undefined' && window.location.origin.includes('run.app')
+  const currentUrl = typeof window !== 'undefined' && window.location.origin.includes('github.io')
     ? window.location.origin
-    : publicAppUrl;
+    : githubPagesUrl;
 
   useEffect(() => {
     const handleBeforeInstallPrompt = (e: Event) => {
@@ -270,18 +271,60 @@ export const InstallAppModal: React.FC<InstallAppModalProps> = ({
           </div>
         </div>
 
-        {/* Method 3: PWABuilder Note */}
+        {/* Method 3: PWABuilder Packaging via GitHub Pages */}
         <div className="bg-slate-50 rounded-2xl p-4 border border-slate-200 space-y-3">
           <div className="flex items-center justify-between">
-            <span className="text-xs font-black uppercase tracking-wider text-slate-700 bg-slate-200 px-2.5 py-0.5 rounded-md border border-slate-300">
-              Method 3 • PWABuilder Diagnostic Note
+            <span className="text-xs font-black uppercase tracking-wider text-amber-800 bg-amber-100 px-2.5 py-0.5 rounded-md border border-amber-300">
+              Method 3 • PWABuilder APK Generator
             </span>
-            <span className="text-[11px] font-bold text-amber-600">Bot Restricted</span>
+            <span className="text-[11px] font-bold text-amber-700">Online APK Packager</span>
           </div>
 
-          <p className="text-xs text-slate-600 leading-relaxed">
-            <strong>Why PWABuilder gave an error:</strong> PWABuilder's cloud server is an external crawler that cannot pass the Google Cloud preview security cookie check on <code>.run.app</code> domains. Use <strong>Method 1 (Instant Chrome install)</strong> on your phone or <strong>Method 2 (GitHub Actions APK)</strong> for guaranteed native installation.
+          <p className="text-xs text-slate-700 leading-relaxed">
+            PWABuilder failed previously because Google Cloud preview links block external crawlers. Now that GitHub Pages is configured, use your public GitHub Pages link which has no security blocks:
           </p>
+
+          <div className="flex items-center gap-2 bg-white p-2 rounded-xl border border-slate-200 text-xs">
+            <span className="text-slate-500 font-bold shrink-0">PWA URL:</span>
+            <input
+              type="text"
+              readOnly
+              value={githubPagesUrl}
+              className="flex-1 bg-transparent text-indigo-700 font-mono text-[11px] truncate focus:outline-hidden font-bold"
+            />
+            <button
+              onClick={() => {
+                if (navigator.clipboard) {
+                  navigator.clipboard.writeText(githubPagesUrl);
+                  setCopiedPwaUrl(true);
+                  setTimeout(() => setCopiedPwaUrl(false), 2500);
+                }
+              }}
+              className="px-2.5 py-1 rounded-lg bg-amber-50 hover:bg-amber-100 text-amber-800 font-bold text-xs flex items-center gap-1 transition-colors shrink-0 cursor-pointer"
+            >
+              {copiedPwaUrl ? (
+                <>
+                  <Check className="w-3.5 h-3.5 text-emerald-600" />
+                  <span>Copied!</span>
+                </>
+              ) : (
+                <>
+                  <Copy className="w-3.5 h-3.5" />
+                  <span>Copy</span>
+                </>
+              )}
+            </button>
+          </div>
+
+          <a
+            href={`https://www.pwabuilder.com?url=${encodeURIComponent(githubPagesUrl)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-full py-2.5 px-4 rounded-xl bg-amber-500 hover:bg-amber-600 text-slate-950 font-black text-xs transition-all flex items-center justify-center gap-2 shadow-sm cursor-pointer"
+          >
+            <span>Open PWABuilder with GitHub Pages URL</span>
+            <ExternalLink className="w-3.5 h-3.5" />
+          </a>
         </div>
 
         {/* App Features Reminder */}

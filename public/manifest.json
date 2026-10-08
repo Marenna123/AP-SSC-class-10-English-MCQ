@@ -1,10 +1,10 @@
 {
-  "id": "/",
+  "id": "./",
   "name": "AP SSC Class 10 English MCQ Learning App",
   "short_name": "SSC English",
   "description": "Mobile-first MCQ learning and practice application for AP SSC Class 10 English 2026–27 syllabus covering Prose, Poems, Grammar, Vocabulary, Creative Expressions, and Mission March Practice.",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f172a",
@@ -12,19 +12,19 @@
   "categories": ["education", "books", "productivity"],
   "icons": [
     {
-      "src": "/pwa-192x192.png",
+      "src": "./pwa-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/pwa-512x512.png",
+      "src": "./pwa-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/pwa-maskable-512x512.png",
+      "src": "./pwa-maskable-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
